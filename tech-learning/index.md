@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical Writing
-permalink: /anthonymendonca/tech-learning/
+permalink: /tech-learning/
 ---
 
 # {{ page.title }}
