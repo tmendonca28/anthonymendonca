@@ -12,7 +12,7 @@ permalink: /cv/
   <a href="#skills-what-i-do">Skills</a> |
   <a href="#education">Education</a> |
   <a href="#about-me">About me</a> |
-  <a href="/cv/Anthony_Mendonca_Resume.pdf" title="PDF version of my resume / CV">PDF</a>
+  <a href="/anthonymendonca/cv/Anthony_Mendonca_Resume.pdf" title="PDF version of my resume / CV">PDF</a>
  </p>
 </blockquote>
 
