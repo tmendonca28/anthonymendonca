@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anthony Mendonca
-permalink: /
+permalink: /anthonymendonca/
 ---
 
 <img class="right" src="/anthonymendonca/images/profile-pic.jpg" alt="Anthony in Nairobi" title="Anthony in sunny Nairobi" />
