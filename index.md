@@ -4,7 +4,7 @@ title: Anthony Mendonca
 permalink: /
 ---
 
-<img class="right" src="/images/profile-pic.jpg" alt="Anthony in Nairobi" title="Anthony in sunny Nairobi" />
+<img class="right" src="/anthonymendonca/images/profile-pic.jpg" alt="Anthony in Nairobi" title="Anthony in sunny Nairobi" />
 
 
 # Anthony Mendonca
@@ -13,7 +13,7 @@ I'm currently a Cyber Security Consultant at [Deloitte](https://www2.deloitte.co
 
 I am interested in Application Security, DevSecOps and building scalable solutions securely.
 
-I really enjoy learning about being the best version of myself and write a few articles on interesting reads [here](/non-tech-learning/). I also keep a record of learning technical concepts [here](/tech-learning/).
+I really enjoy learning about being the best version of myself and write a few articles on interesting reads [here](/anthonymendonca/non-tech-learning/). I also keep a record of learning technical concepts [here](/anthonymendonca/tech-learning/).
 
 
 ## Videos I find inspiring

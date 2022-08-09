@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical Writing
-permalink: /tech-learning/
+permalink: /anthonymendonca/tech-learning/
 ---
 
 # {{ page.title }}
@@ -11,6 +11,6 @@ I tend to spend a good portion of my day learning and implementing technical con
 
 <h2 id="y2022">2022</h2>
 
-* [Technical Information Gathering with theHarvester](/tech-learning/tech-info-gathering-theharvester/) showcases the uses of theHarvester, an OSINT tool that can be leveraged during the recon stage of a penetration test. (August)
+* [Technical Information Gathering with theHarvester](/anthonymendonca/tech-learning/tech-info-gathering-theharvester/) showcases the uses of theHarvester, an OSINT tool that can be leveraged during the recon stage of a penetration test. (August)
 
-* [Secure Coding Practices in Java](/tech-learning/sec-coding-java/) describes a few secure coding best practices when coding in Java. (July)
+* [Secure Coding Practices in Java](/anthonymendonca/tech-learning/sec-coding-java/) describes a few secure coding best practices when coding in Java. (July)
