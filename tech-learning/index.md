@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Technical Writing
+title: Technical Learning
 permalink: /tech-learning/
 ---
 
