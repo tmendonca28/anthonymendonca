@@ -9,7 +9,7 @@ permalink: /
 
 # Anthony Mendonca
 
-I'm currently a Cyber Security Consultant at [Deloitte](https://www2.deloitte.com/uk/en/explore/home.html) working in the Applications and Infrastructure Security team on large cyber security transformation projects -- You can learn more about these from my [resume/CV](/cv/). I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/).
+I'm currently a Cyber Security Consultant at [Deloitte](https://www2.deloitte.com/uk/en/explore/home.html) working in the Applications and Infrastructure Security team on large cyber security transformation projects -- You can learn more about these from my [resume/CV](/anthonymendonca/cv/). I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/).
 
 I am interested in Application Security, DevSecOps and building scalable solutions securely.
 
