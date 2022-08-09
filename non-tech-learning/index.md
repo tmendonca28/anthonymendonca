@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Non-technical Learning
-permalink: /anthonymendonca/non-tech-learning/
+permalink: /non-tech-learning/
 ---
 
 # {{ page.title }}
