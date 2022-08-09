@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Secure coding practices in Java"
-permalink: /anthonymendonca/tech-learning/sec-coding-java/
+permalink: /tech-learning/sec-coding-java/
 description: "A few security best practices when writing Java code."
 ---
 <h1>{{ page.title }}</h1>

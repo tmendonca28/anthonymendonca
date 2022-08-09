@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Technical Information Gathering using theHarvester"
-permalink: /anthonymendonca/tech-learning/tech-info-gathering-theharvester/
+permalink: /tech-learning/tech-info-gathering-theharvester/
 description: "Getting up and running with theHarvester for OSINT."
 ---
 <h1>{{ page.title }}</h1>
