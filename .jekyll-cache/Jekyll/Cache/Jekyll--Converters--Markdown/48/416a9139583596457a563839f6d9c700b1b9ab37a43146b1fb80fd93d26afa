@@ -1,0 +1,79 @@
+I"�<h1 id="agm-resumecv" class="no-print">Anthony Mendonca's Resume/CV</h1>
+
+<blockquote>
+ <p class="no-print"><b>🢂:</b>
+  <a href="#summary">Summary</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#skills-what-i-do">Skills</a> |
+  <a href="#education">Education</a> |
+  <a href="#about-me">About me</a> |
+  <a href="/cv/Anthony_Mendonca_Resume.pdf" title="PDF version of my resume / CV">PDF</a>
+ </p>
+</blockquote>
+
+<h2 id="summary">Summary</h2>
+
+<p>I’m a security engineer with a software engineering background. I have a strong interest in product and cloud security as well as developing security solutions that would better secure a given product or organisation.</p>
+
+<p>I have an extremely strong work ethic, quickly adapt my ways of work to suit the problem at hand and analyse problems thoroughly (not to the extent of analysis paralysis) in order to develop the optimal solution.</p>
+
+<p>I live in London, but I was born and raised in Nairobi, Kenya. I’ve also spent a few years in Belfast where I did my MSc. in Applied Cybersecurity at Queen’s University Belfast.</p>
+
+<h2 id="experience">Experience</h2>
+
+<h3 id="deloitte--cyber-risk-consultant--september-2021-to-present"><a href="https://deloitte.com/">Deloitte</a> – Cyber Risk Consultant – September 2021 to present</h3>
+
+<ul>
+  <li>Developing a secure network design for a Swiss luxury watch maker. This involves implementing network security
+best practices, conducting threat modeling using the MITRE ATT&amp;CK framework and ultimately building out a 3-year
+network security strategy</li>
+  <li>Developed technical implementation guidance with relation to ransomware server hardening for a global consulting
+services client. Done using PowerShell scripts and Chef recipes</li>
+  <li>Developed a next generation secure network strategy implementation roadmap that would underpin the global
+network security transformation for a multinational consulting services client. This included adoption strategies for
+Secure Access Service Edge and Zero Trust</li>
+  <li>Developed low-level system implementation guidance to improve the current security posture for a national
+scientific research client. This was a post-vulnerability assessment activity and improved the organization’s security
+posture by 75%</li>
+</ul>
+
+<h3 id="bt-group--cyber-security-intern--september-2019-to-june-2020"><a href="https://www.bt.com/">BT Group</a> – Cyber Security Intern – September 2019 to June 2020:</h3>
+
+<ul>
+  <li>Developed a neural network model that increases the proactive detection of malicious domains by 70%</li>
+  <li>Developed Splunk queries and dashboards to determine root cause analysis of device misconfigurations leading to
+75% increase in turnaround time</li>
+  <li>Built automation tools related to detecting secrets exposed on GitHub and DNS hygiene increasing BT’s security
+posture by 80%</li>
+  <li>Developed threat intelligence queries on Microsoft ATP platform using KQL to detect Privilege Escalation</li>
+</ul>
+
+<h3 id="ibm-research--software-engineer-intern--june-2018-to-august-2018"><a href="https://research.ibm.com/">IBM Research</a> – Software Engineer Intern – June 2018 to August 2018:</h3>
+
+<ul>
+  <li>Designed and developed features for a diagnosis and testing tool for cloud-based microservices increasing API
+response times by 60%. This <a href="https://prezi.com/jr048wvfkn5t/">work</a> was then further extended by other research teams in agriculture, financial services and healthcare to reduce latency</li>
+  <li>Implemented unit tests using Java (Spring Boot) with JUnit and Mockito increasing test coverage</li>
+  <li>Implemented integration and load tests in Python using Locust to gauge and improve API responsiveness</li>
+</ul>
+
+<h2 id="technical-skills">Technical Skills</h2>
+
+<ul>
+  <li><strong>Languages</strong>: Python, Java, Golang, SQL, JavaScript</li>
+  <li><strong>Cloud &amp; Deployment</strong>: GCP, AWS, Docker, Kubernetes, Chef</li>
+  <li><strong>Security Skills</strong>: Penetration Testing, Threat Modelling, Web Application Firewalls, Reverse Proxies</li>
+  <li><strong>Security Tools</strong>: Wireshark, Nmap, Burpsuite</li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p>I have a BSc. Computer Science from the University of Nairobi which I completed in September 2017. I later on pursued my MSc. in Applied Cybersecurity from Queen’s University Belfast which I graduated in June 2020. My Master’s thesis was based on Machine Learning for Network Intrusion Detection which can be found <a href="https://github.com/tmendonca28/DLNID">here</a>.</p>
+
+<h2 id="certifications">Certifications</h2>
+
+<ul>
+  <li><strong><a href="https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile">COMPTIA Security+</a></strong>: March 2021 - March 2024</li>
+  <li><strong><a href="https://www.credential.net/5a883d38-c5d2-4190-9a0e-c23dbc1a0a47">GCP Associate Cloud Engineer</a></strong>: April 2022 - April 2025</li>
+</ul>
+:ET

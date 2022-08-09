@@ -1,0 +1,15 @@
+I"{<h1 id="technical-writing">Technical Writing</h1>
+
+<p>I tend to spend a good portion of my day learning and implementing technical concepts in what I am interested in. This ranges from application security to cloud security and everything else in between. What follows is a collection of my technical learnings (My non-technical  <a href="/non-tech-learning/"><strong>non-technical writings</strong></a>).</p>
+
+<h2 id="y2022">2022</h2>
+
+<ul>
+  <li>
+    <p><a href="/tech-learning/tech-info-gathering-theharvester/">Technical Information Gathering with theHarvester</a> showcases the uses of theHarvester, an OSINT tool that can be leveraged during the recon stage of a penetration test. (August)</p>
+  </li>
+  <li>
+    <p><a href="/tech-learning/sec-coding-java/">Secure Coding Practices in Java</a> describes a few secure coding best practices when coding in Java. (July)</p>
+  </li>
+</ul>
+:ET

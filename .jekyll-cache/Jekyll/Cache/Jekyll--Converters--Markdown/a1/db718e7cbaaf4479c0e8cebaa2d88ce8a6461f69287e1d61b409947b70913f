@@ -1,0 +1,96 @@
+I"}<h1>Secure coding practices in Java</h1>
+<p class="subtitle">July 2022</p>
+
+<h2 id="intro">Intro</h2>
+<p>Defensive or secure coding is mainly done so as to improve source code in terms of:</p>
+<ul>
+  <li>General Quality - Reducing the number of software bugs and inherent problems. SOLID, Design Patterns, tested.</li>
+  <li>Readability - Making it more readable for approval in a code audit situation. Naming, DRY, well-formatted and well-documented.</li>
+  <li>Predictability - Making sure it behaves in a predictable manner without any unexpected actions</li>
+</ul>
+
+<p>The main point of defensive coding is guarding against errors you don’t expect.</p>
+<blockquote>
+  <p><strong>Expecting the unexpected</strong></p>
+</blockquote>
+
+<p>We should therefore shift ‘Security Left’ as bugs become more costly and hard to find later on i.e. in Production. It is very important to know, the sooner we find a bug, the better.</p>
+
+<h2 id="validating-user-input">Validating User Input</h2>
+<p>Errors should be detected as soon as possible. <a href="https://www.amazon.co.uk/Effective-Java-Joshua-Bloch/dp/0134685997">Joshua Bloch, Effective Java</a><br />
+Guard clauses should be used and can do 1 of 3 things:</p>
+<ul>
+  <li>Return early</li>
+  <li>Fail fast i.e. throw an exception</li>
+  <li>Alternative execution i.e. displaying a user-friendly message of what went wrong</li>
+</ul>
+
+<h3 id="validating-null">Validating Null</h3>
+<p>It is very important not to return null. Try introducing null checks and throw exceptions at the top and then the handling of proper logic after this. This assists tremendously with readability. Also, try aggregating exceptions into one generic one and throw this to the user. This helps in reducing code size and the number of times the user needs to correct their input.<br />
+Another important point is to always place guard clauses at the very beginning. The usual logic then comes after this and can prove to be a huge time-saver.<br />
+In terms of code, this should be our aim and at the very top of our functions:</p>
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">if</span> <span class="o">(</span><span class="n">not</span> <span class="n">ok</span><span class="o">)</span> <span class="o">{</span> <span class="k">throw</span> <span class="nc">Exception</span> <span class="o">}</span>  <span class="c1">// rest of code</span>
+</code></pre></div></div>
+
+<h3 id="validating-number-ranges">Validating Number Ranges</h3>
+<p>For number ranges, we need to be careful around the logic operators used for the border values. Aim for:</p>
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">if</span> <span class="o">(</span> <span class="n">check1</span> <span class="o">||</span> <span class="n">check2</span><span class="o">)</span> <span class="o">{</span><span class="c1">// rest of code}</span>
+</code></pre></div></div>
+
+<h3 id="validating-strings">Validating Strings</h3>
+<p>A technique called Decompose Conditional should be used. This means factoring out the conditional to a function like isValidString() or is ValidEmail().<br />
+Use regular expressions as well for fields like Email Address but use them sparingly as they can get super complex.</p>
+
+<h3 id="validating-dates">Validating Dates</h3>
+<p>It is not advisable to use the java.util.Data API anymore.<br />
+As of Java 8 we can and should use the java.time API with LocalData, LocalTime, Instant etc.<br />
+It is also advised not to store dates as Strings but instead as DateTime objects.<br />
+Don’t use regex to validate String dates but instead use native.parse() method.</p>
+
+<h3 id="general-best-practice-for-what-exception-to-throw">General best practice for what exception to throw</h3>
+<p>It is not a good idea to throw generic top-level errors, exceptions or throwables; instead throw specific exceptions e.g. IllegalArgumentException, IllegalStateException etc.</p>
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="kt">double</span> <span class="nf">calc</span><span class="o">(</span><span class="kt">double</span> <span class="n">input</span><span class="o">)</span> <span class="o">{</span>
+	    <span class="k">return</span> <span class="mi">13</span> <span class="o">/</span> <span class="n">input</span><span class="o">;</span>  <span class="c1">// Arithmetic Exception if input is 0</span>
+    <span class="o">}</span>
+</code></pre></div></div>
+
+<h2 id="using-frameworks-for-validation">Using Frameworks for Validation</h2>
+<p>We can leverage a few Frameworks to assist with validation.</p>
+
+<h3 id="native-java-api">Native Java API</h3>
+<p>Objects class can be used for validation. A few of the methods are equals(), deepEquals(), requireNonNullElseGet(), checkIndex() etc.</p>
+
+<h3 id="google-guava">Google Guava</h3>
+<p>First, add Guava as a dependency.<br />
+The class Preconditions has a number of static validation methods. checkNotNull() is synonymous to the requireNonNull() in the Native Java API. Other examples include checkArgument() and checkState().<br />
+Note: It is advisable not to use both Objects and Preconditions API from Guava. Stick to one.</p>
+
+<h3 id="apache-commons">Apache Commons</h3>
+<p>The Apache Commons Library also has the Validate class that has the following methods similar to Guava above : notNull(), isTrue(), and validState(). An advantage of the Commons class is that it has additional validations available such as notEmpty(), noNullElements(), exclusiveBetween() and inclusiveBetween().</p>
+
+<h2 id="improving-return-values">Improving Return Values</h2>
+<p>Magic Numbers such as -1 or 0 should generally be avoided as return values. These tend to force engineers to learn their meaning first (by reading through the application’s documentation) and can further result in poor client-side code.<br />
+A few valid return values in place of magic numbers could be:</p>
+<ul>
+  <li>True/False : for success and failure respectively</li>
+  <li>Void/Throw : nothing happens when successful, throw an exception if any failure occurs.
+Try not to mix boolean returns with exceptions and null values.</li>
+</ul>
+
+<h3 id="dont-return-null">Don’t return null</h3>
+<p>Instead we should throw an exception, return a sensible default value, empty collection or Optional<T>.  
+An Optional can be described as a container that can hold at most one value. It is a container object that may or may not contain a non-null value. This can be used to avoid NullPointerExceptions and forces the user to confront the fact that there may be no value.</T></p>
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nc">Optional</span><span class="o">&lt;</span><span class="nc">Journey</span><span class="o">&gt;</span> <span class="nf">getRoute</span><span class="o">(</span><span class="nc">String</span> <span class="n">start</span><span class="o">)</span>
+</code></pre></div></div>
+
+<h2 id="other-defensive-practices">Other Defensive Practices</h2>
+<p>Encapsulation refers to information and implementation hiding. Strive to make each member as inaccessible as possible. It isn’t advisable to provide getters and setters for the fun of it.<br />
+Be careful with method side effects; this happens if a method changes some state outside of its local scope. Strive to not make methods both return values and produce side effects.<br />
+In terms of exception handling we should:</p>
+<ul>
+  <li>Use Java-7 try-with-resources</li>
+  <li>Pass useful and specific information to your exceptions</li>
+</ul>
+
+<p>Use Static Analysis Tools as they help in preventing bugs within code e.g. SonarLint.</p>
+:ET
