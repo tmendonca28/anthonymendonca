@@ -12,6 +12,8 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
 
 <h2 id="y2022">2022</h2>
 
+* [Understanding Secure Access Service Edge (SASE)](/tech-learning/sase-101/) provides a brief introduction to SASE. (August)
+
 * [Technical Information Gathering with theHarvester](/tech-learning/tech-info-gathering-theharvester/) showcases the uses of theHarvester, an OSINT tool that can be leveraged during the recon stage of a penetration test. (August)
 
 * [Secure Coding Practices in Java](/tech-learning/sec-coding-java/) describes a few secure coding best practices when coding in Java. (July)
