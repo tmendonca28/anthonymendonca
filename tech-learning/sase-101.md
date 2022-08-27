@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "what is sase?"
+title: "What is sase?"
 permalink: /tech-learning/sase-101/
 description: "Understanding the fundamentals of SASE"
 ---

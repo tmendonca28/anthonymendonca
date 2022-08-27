@@ -7,6 +7,8 @@ description: "A few security best practices when writing Java code."
 <h1>{{ page.title }}</h1>
 <p class="subtitle">July 2022</p>
 
+{% include reading-time.html %}
+
 ## Intro
 Defensive or secure coding is mainly done so as to improve source code in terms of:
 * General Quality - Reducing the number of software bugs and inherent problems. SOLID, Design Patterns, tested.
