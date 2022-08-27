@@ -12,7 +12,7 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
 
 <h2 id="y2022">2022</h2>
 
-* [How your ISP may know what site you are browsing to](/tech-learning/isp-info-gathering/) tries to understand how ISP's can potentiall see what domains you are browsing. (August)
+* [How your ISP may know what site you are browsing to](/tech-learning/isp-info-gathering/) tries to understand how ISP's can potentially see what domains you are browsing. (August)
 
 * [Understanding Secure Access Service Edge (SASE)](/tech-learning/sase-101/) provides a brief introduction to SASE. (August)
 
