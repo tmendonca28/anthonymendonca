@@ -37,7 +37,7 @@ The _cd_ into theHarvester folder and run:
     python3 ./Harvester.py
 ```
 
-## Finding Subdomains and IP addresses
+## Finding subdomains and ip addresses
 These are extremely important attack avenues.
 An example of enumerating the subdomains for a given domain is as seen below:
 ```console

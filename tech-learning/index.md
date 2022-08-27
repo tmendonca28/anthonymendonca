@@ -12,6 +12,8 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
 
 <h2 id="y2022">2022</h2>
 
+* [How your ISP may know what site you are browsing to](/tech-learning/isp-info-gathering/) tries to understand how ISP's can potentiall see what domains you are browsing. (August)
+
 * [Understanding Secure Access Service Edge (SASE)](/tech-learning/sase-101/) provides a brief introduction to SASE. (August)
 
 * [Technical Information Gathering with theHarvester](/tech-learning/tech-info-gathering-theharvester/) showcases the uses of theHarvester, an OSINT tool that can be leveraged during the recon stage of a penetration test. (August)

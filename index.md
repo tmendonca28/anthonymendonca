@@ -16,7 +16,7 @@ I am interested in Application Security, DevSecOps and building scalable solutio
 I really enjoy learning about being the best version of myself and write a few articles on interesting reads [here](/non-tech-learning/). I also keep a record of learning technical concepts [here](/tech-learning/).
 
 
-## Videos I find inspiring
+## Videos i find inspiring
 
 * [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), a talk on inspirational leadership.
 * [Why We Do What We Do](https://www.ted.com/talks/tony_robbins_why_we_do_what_we_do), a talk on the reasoning behind your actions.

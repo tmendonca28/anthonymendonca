@@ -1,11 +1,12 @@
 ---
 layout: default
-title: "What is SASE?"
+title: "what is sase?"
 permalink: /tech-learning/sase-101/
 description: "Understanding the fundamentals of SASE"
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">August 2022</p>
+
 {% include reading-time.html %}
 
 ## Introduction
@@ -13,7 +14,7 @@ Digital transformation and adoption of mobile, cloud and edge deployment change 
 Gartner predicts the demands for simplicity, flexibility, scalability, low latency and pervasive security will force convergence of WAN edge and network security markets. This convergence is known as the **Secure Access Service Edge (SASE)**.
 
 SASE is comprised of 3 key architectural requirements:
-* Trult converged and centralised (Single-pane-of-glass)
+* Truly converged and centralised (Single-pane-of-glass)
 * Global cloud-native functionality
 * Support all edges i.e. branch connectivity, mobile, cloud, on-premise etc.
 
@@ -25,7 +26,7 @@ SASE is also defined by 4 attributes; it should be:
 
 One of the main problems faced by organisations is **restricted traffic visibility** and **traffic inspection blind spots**. SASE is built to cater to this by providing full visibility for all traffic from all edges including between edges (WAN) and from these edges to the Internet.
 
-## What does SASE provide to an organisation?
+## What does sase provide to an organisation?
 * **Agility:** Provisioning of new resources and capabilities is fast and simple.
 * **Collaboration:** IT teams can leverage the convergence of network and security to manage everything from a single interface i.e. single pane of glass. This cross-team collaboration improves the overall service delivery to the business.
 * **Efficiency:** IT can better achieve service to the business, while focusing precious resources and skills on solving business-specific tasks rather than generic infrastructure maintenance.
