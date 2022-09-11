@@ -11,5 +11,4 @@ As I consider myself a life-long learner, the articles below are based on books,
 
 <h2 id="y2022">2022</h2>
 
-<!-- * [Title](/writings/link/) description (Month) -->
-## COMING SOON
+* [Effortless](/non-tech-learning/effortless/) is a summary of the book by Greg McKeown and its key points. (September)
