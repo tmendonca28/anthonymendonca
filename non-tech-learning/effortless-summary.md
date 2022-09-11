@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Effortless"
-permalink: /non-tech-learning/effortless-summary
+permalink: /non-tech-learning/effortless-summary/
 description: "Effortless"
 ---
 
