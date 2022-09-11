@@ -11,4 +11,4 @@ As I consider myself a life-long learner, the articles below are based on books,
 
 <h2 id="y2022">2022</h2>
 
-* [Effortless](/non-tech-learning/effortless/) is a summary of the book by Greg McKeown and its key points. (September)
+* [Effortless](/non-tech-learning/effortless-summary/) is a summary of the book by Greg McKeown and its key points. (September)

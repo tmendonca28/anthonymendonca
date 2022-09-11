@@ -7,8 +7,6 @@ description: "Getting up and running with theHarvester for OSINT."
 <h1>{{ page.title }}</h1>
 <p class="subtitle">August 2022</p>
 
-{% include reading-time.html %}
-
 ## Intro
 It allows one to gather bother technical and people information on a given target.  
 Information gathering is super important during a red teaming exercise as it can prove extremely useful during exploitation. A good example of this is finding a few (forgotten) insecure client resources (like servers) that could be potentially easier to get into than the main client's site.  

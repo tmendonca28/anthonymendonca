@@ -8,8 +8,6 @@ description: "How your ISP may know what site you are browsing to"
 <p class="subtitle">August 2022</p>
 <img class="center" src="/images/isp-article.png" alt="ISP Snooping" title="ISP Snooping" />
 
-{% include reading-time.html %}
-
 Following an interview question I had recently, I decided to look more into this. It seems that your Internet Service Provider (ISP) may know a bit more about what sites you tend to visit than you may know. Here are a few of the possible ways they can do so:  
 
 ## A decent portion of the internet still runs on http

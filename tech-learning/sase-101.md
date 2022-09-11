@@ -7,8 +7,6 @@ description: "Understanding the fundamentals of SASE"
 <h1>{{ page.title }}</h1>
 <p class="subtitle">August 2022</p>
 
-{% include reading-time.html %}
-
 ## Introduction
 Digital transformation and adoption of mobile, cloud and edge deployment change the fundamental network traffic patterns. This renders existing network and security models obsolete especially in the post-COVID world.  
 Gartner predicts the demands for simplicity, flexibility, scalability, low latency and pervasive security will force convergence of WAN edge and network security markets. This convergence is known as the **Secure Access Service Edge (SASE)**.
