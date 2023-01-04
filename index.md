@@ -9,7 +9,7 @@ permalink: /
 
 # Anthony Mendonca
 
-Hey! I'm currently a Senior Consultant at [Booz Allen Hamilton](https://www.boozallen.com/) working in the Threat Intelligence team. Previously, I worked at [Deloitte](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [resume/CV](/cv/)
+Hey! I'm currently a Senior Consultant at [Booz Allen Hamilton](https://www.boozallen.com/) working in the Threat Intelligence team. Previously, I worked at [Deloitte UK](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [resume/CV](/cv/)
 
 My interests lie in Threat Intelligence, Application Security, DevSecOps, Reverse Engineering and building scalable solutions securely.
 
