@@ -7,6 +7,7 @@ description: "Eat That Frog"
 
 <h1>{{ page.title }}</h1>
 <p class="subtitle">January 2023</p>
+<img class="center" src="/images/eat-that-frog.JPG" alt="Eat That Frog" title="Eat That Frog" />
 
 I spent the end of Dec 2022 and the beginning of 2023 reading this [book](https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426). It truly is a great book in teaching more about perfecting time management. A frog is symbolised as the task that requires the most effort in an individual's day and hence, it focuses on making it easier to get that task done, in the simplest and most effective manner. It follows an old saying, that if the first thing anyone does each morning is eat a frog, they'll have the sense of satisfaction and accomplishment that it'll be the worst thing they'll do all day and would hence be able to breeze through other tasks. The book is a great help as it helps me **get more done** by doing a set of simple things that I refer to as resolutions from each of the chapters. It is also great at helping you to discern what are high-value vs low-value tasks.
 
