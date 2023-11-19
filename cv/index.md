@@ -19,16 +19,25 @@ permalink: /cv/
 
 ## Summary
 
-I’m a security engineer with a software engineering background. I have a strong interest in product and cloud security as well as developing security solutions that would better secure a given product or organisation.
+I’m a technically-minded cybersecurity consultant with a software engineering background. I have a strong interest in product and cloud security as well as developing security solutions that would better secure a given product or organisation.
 
 I have an extremely strong work ethic, quickly adapt my ways of work to suit the problem at hand and analyse problems thoroughly (not to the extent of analysis paralysis) in order to develop the optimal solution.
 
 I live in London, but I was born and raised in Nairobi, Kenya. I've also spent a few years in Belfast where I did my MSc. in Applied Cybersecurity at Queen's University Belfast.
 
+## Experience
+
+### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant &ndash; January 2023 to present
+
+*  Global top 5 FMCG client: As part of it’s security transformation journey, championed the conceptualization and
+establishment of a robust security metrics program aligned with NIST CSF, driving data-driven reporting and
+analysis. Developed a balanced security scorecard that allowed for better decision-making and spend of it’s cyber
+budget.
+*  European online retail and fashion client: Developed detailed threat intelligence and analysis using the MITRE ATT&CK framework and open-source threat intelligence to identify security information and event management (SIEM) use cases for both development and enhancement.
 
 ## Experience
 
-### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant &ndash; September 2021 to present
+### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant &ndash; September 2021 to December 2022
 
 *  Developing a secure network design for a Swiss luxury watch maker. This involves implementing network security
 best practices, conducting threat modeling using the MITRE ATT&CK framework and ultimately building out a 3-year
