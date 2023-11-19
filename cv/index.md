@@ -27,7 +27,7 @@ I live in London, but I was born and raised in Nairobi, Kenya. I've also spent a
 
 ## Experience
 
-### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant &ndash; January 2023 to present
+### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant <p style="text-align: right;">January 2023 to present</p>
 
 *  Global top 5 FMCG client: As part of it’s security transformation journey, championed the conceptualization and
 establishment of a robust security metrics program aligned with NIST CSF, driving data-driven reporting and
@@ -37,7 +37,7 @@ budget.
 
 ## Experience
 
-### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant &ndash; September 2021 to December 2022
+### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant <p style="text-align: right;">September 2021 to December 2022</p>
 
 *  Developing a secure network design for a Swiss luxury watch maker. This involves implementing network security
 best practices, conducting threat modeling using the MITRE ATT&CK framework and ultimately building out a 3-year
@@ -51,7 +51,7 @@ Secure Access Service Edge and Zero Trust
 scientific research client. This was a post-vulnerability assessment activity and improved the organization’s security
 posture by 75%
 
-### [BT Group](https://www.bt.com/) &ndash; Cyber Security Intern &ndash; September 2019 to June 2020:
+### [BT Group](https://www.bt.com/) &ndash; Cyber Security Intern <p style="text-align: right;">September 2019 to June 2020</p>
 
 *  Developed a neural network model that increases the proactive detection of malicious domains by 70%
 *  Developed Splunk queries and dashboards to determine root cause analysis of device misconfigurations leading to
@@ -60,7 +60,7 @@ posture by 75%
 posture by 80%
 * Developed threat intelligence queries on Microsoft ATP platform using KQL to detect Privilege Escalation
 
-### [IBM Research](https://research.ibm.com/) &ndash; Software Engineer Intern &ndash; June 2018 to August 2018:
+### [IBM Research](https://research.ibm.com/) &ndash; Software Engineer Intern <p style="text-align: right;">June 2018 to August 2018.</p>
 
 *  Designed and developed features for a diagnosis and testing tool for cloud-based microservices increasing API
 response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then further extended by other research teams in agriculture, financial services and healthcare to reduce latency
