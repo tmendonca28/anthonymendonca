@@ -10,6 +10,8 @@ I tend to spend a good portion of my day learning and implementing technical con
 
 You can learn about my coding projects on my [GitHub](https://github.com/tmendonca28).
 
+<h2 id="y2023" style="text-decoration: underline;">2023</h2>
+
 <h2 id="y2022" style="text-decoration: underline;">2022</h2>
 
 * [A foray into DevSecOps](/tech-learning/devsecops-101/) is my beginning into learning more about and demystifying the concept of DevSecOps. (September)
