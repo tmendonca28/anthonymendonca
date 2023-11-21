@@ -21,7 +21,7 @@ An enumerator, often referred to as an enumeration or enum, is a user-defined da
 ## Example
 I chose to provide an example in Python (since that is what I am most conversant in) and modelled it towards a cybersecurity concept; IAM in this case.
 Let's consider a scenario where we are working on a system that manages different roles for users. Instead of using numeric constants to represent roles, we can use an enumerator for better code organization as follows:
-```
+```console
 from enum import Enum
 
 class UserRole(Enum):
