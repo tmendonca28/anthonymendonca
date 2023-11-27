@@ -6,7 +6,9 @@ description: "Understanding enumerators in Programming."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">November 2023</p>
-<img class="center" src="/images/enum-list.jpg" alt="Enumerator List" title="Enumeration" />
+<div style="text-align: center;">
+    <img src="/images/enum-list.jpg" alt="Enumerator List" style="max-width: 50%; height: auto;" title="Enumeration">
+</div>
 
 ## Intro
 In the world of programming, enumerators play a crucial role in simplifying code and enhancing readability. I recall being asked this in a system design interview for a MANGA company in my early software engineer days and sadly being stumped. As such, I want to explore what enumerators are, their significance, and provide a simple example to illustrate their usage.
