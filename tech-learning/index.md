@@ -10,6 +10,8 @@ I tend to spend a good portion of my day learning and implementing technical con
 
 You can learn about my coding projects on my [GitHub](https://github.com/tmendonca28).
 
+<h2 id="y2024" style="text-decoration: underline;">2024</h2>
+
 <h2 id="y2023" style="text-decoration: underline;">2023</h2>
 * [Understanding enumerators in programming](/tech-learning/enumerators/) is my attempt to better understand them as I recall one of my early MANGA interviews. (November)
 
