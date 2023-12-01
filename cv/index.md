@@ -87,6 +87,6 @@ I have a BSc. Computer Science from the University of Nairobi which I completed 
 
 ## Certifications
 
-*  **[COMPTIA Security+](https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile)**: March 2021 - March 2024
+*  **[COMPTIA Security+](https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile)**: March 2021 - March 2027
 *  **[GCP Associate Cloud Engineer](https://www.credential.net/5a883d38-c5d2-4190-9a0e-c23dbc1a0a47)**: April 2022 - April 2025
 *  **[Certified DevSecOps Professional](https://www.credly.com/badges/164b83d7-b687-493c-9490-e9a4c31d08e6/public_url)**
