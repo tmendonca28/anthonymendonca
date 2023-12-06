@@ -13,6 +13,8 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
 <h2 id="y2024" style="text-decoration: underline;">2024</h2>
 
 <h2 id="y2023" style="text-decoration: underline;">2023</h2>
+* [Exploring CodeQL](/tech-learning/exploring-codeql/) explores CodeQL, a code analysis tool developed by GitHub to scan code for vulnerabilities. (December)
+
 * [Understanding enumerators in programming](/tech-learning/enumerators/) is my attempt to better understand them as I recall one of my early MANGA interviews. (November)
 
 <h2 id="y2022" style="text-decoration: underline;">2022</h2>
