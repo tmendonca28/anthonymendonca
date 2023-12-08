@@ -14,7 +14,7 @@ description: "Exploring CodeQL: A Practical Guide"
 CodeQL is a tool that was developed by GitHub to identify vulnerabilities and thereby enhance code security. It plays a vital role in shifting security left in the SDLC especially if integrated into a CI/CD pipeline for automatic code checking. A number of companies like Wise, Palantir and Tide seem to be using it to scan their codebases. As such, I thought it would be a great addition to my application security skill set. This article aims to practically get you up and running with learning CodeQL. I will use Python as my language of choice (as I feel decently comfortable with it in describing code vulnerabilities) but you can choose whatever language you feel comfortable with as well as what CodeQL currently supports.
 
 ## Getting Started
-Firstly, create a new repository on GitHub with a name of your choice, preferably descriptive in nature. I picked CodeQL-Python-Learning as can be seen [here](https://github.com/tmendonca28/CodeQL-Python-Learning).
+Firstly, create a new repository on GitHub with a name of your choice, preferably descriptive in nature. I picked CodeQL-Python-Learning as can be seen [here](https://github.com/tmendonca28/CodeQL-Python-Learning). This will house all my experiments when it comes to using CodeQL.
 Git clone the repo locally and you are ready to get started.
 
 ## Installing CodeQL for Python
@@ -26,7 +26,7 @@ We need to download and install the CodeQL CLI locally. This can be done by visi
 ## Writing and running your first codeql query for python
 GitHub's [security lab repository](https://github.com/github/securitylab) has a number of CodeQL queries that one can analyze with respect to Python.\
 A best practice one can follow is to create a directory within your local repo to house queries, and aptly name it _queries_. You can then create a .ql file, and potentially name it in line with a specific vulnerability you are scanning for. For example, if I am trying to scan against sensitive data exposure, I would call my file "sensitive_data_exposure.ql".\
-I created a simple python file, that contained a redundant 'if' statement. Starting off with this to understand the workflow of CodeQL as well as the query language used.
+I created a simple python file, that contained a redundant 'if' statement. Starting off with this to understand the workflow of CodeQL as well as the query language used. The 'pass' makes the if statement redundant as flow would simply pass over the if and do nothing.
 The python file looked as follows:
 ```python
 print("Hello there")
@@ -77,7 +77,7 @@ You can then install a SARIF viewer extension, to view the results.
 <div style="text-align: center;">
     <img src="/images/redundant-if.png" alt="redundant-if" style="max-width: 80%; height: auto;" title="redundant-if">
 </div>
-This is a really simple example to get to grips with setting up and running CodeQL locally, the next step would, of course, be running it in a CI/CD pipeline./
+This is a really simple example to get to grips with setting up and running CodeQL locally, the next step would, of course, be running it in a CI/CD pipeline.
 I will be exploring how to add more queries for specific python-related vulnerabilities to understand the query language better.
 
 ## Conclusion
