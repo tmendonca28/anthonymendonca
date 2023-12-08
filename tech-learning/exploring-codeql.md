@@ -7,7 +7,7 @@ description: "Exploring CodeQL: A Practical Guide"
 <h1>{{ page.title }}</h1>
 <p class="subtitle">December 2023</p>
 <div style="text-align: center;">
-    <img src="/images/codeql-article.png" alt="CodeQL" style="max-width: 20%;" title="CodeQL: A Practical Guide">
+    <img src="/images/codeql-article.png" alt="CodeQL" style="width: 150px; height: 150px;" title="CodeQL: A Practical Guide">
 </div>
 
 ## Intro
