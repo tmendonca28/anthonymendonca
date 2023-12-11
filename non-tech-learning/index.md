@@ -6,7 +6,7 @@ permalink: /non-tech-learning/
 
 # {{ page.title }}
 
-As I consider myself a life-long learner, the articles below are based on books, videos or articles I find interesting in becoming 1% better each day (see also my [**technical writings**](/tech-learning/)).
+As I consider myself a life-long learner, the articles below are based on books, videos or concepts I find interesting in developing myself to become 1% better every day (see also my [**technical writings**](/tech-learning/)).
 
 <h2 id="y2024" style="text-decoration: underline;">2024</h2>
 
