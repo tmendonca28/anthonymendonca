@@ -21,7 +21,7 @@ One of the distinctive features that I have noticed of high performing teams in 
 Consider a scenario where a technical firm is implementing a company-wide cybersecurity awareness initiative. **Collaboration** with HR, IT, and strategic leadership teams becomes instrumental in aligning technical advice with organizational goals. The ability to communicate complex cybersecurity concepts to non-technical stakeholders becomes a valuable skill, ensuring a unified approach to cybersecurity resilience.
 
 ## ➕ Positivity
-Cybersecurity isn't just about defending against external threats; it's about instilling and fostering a culture of security internally.\ 
+Cybersecurity isn't just about defending against external threats; it's about instilling and fostering a culture of security internally.
 
 > "Culture is what people do when no one is looking."  
 > — Herb Kelleher
