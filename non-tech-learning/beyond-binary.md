@@ -23,7 +23,8 @@ Consider a scenario where a technical firm is implementing a company-wide cybers
 ## ➕ Positivity
 Cybersecurity isn't just about defending against external threats; it's about instilling and fostering a culture of security internally.\ 
 
-> Culture is what people do when no one is looking.
+> "Culture is what people do when no one is looking."  
+> — Herb Kelleher
 
 A positive attitude is everything, and is the glue that holds together the intricate fabric of cybersecurity awareness.
 This permeates across both the cybersecurity team and the entire organization thereby fostering an environment where everyone feels invested in the shared goal of security.
