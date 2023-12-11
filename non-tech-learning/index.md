@@ -12,7 +12,7 @@ As I consider myself a life-long learner, the articles below are based on books,
 
 <h2 id="y2023" style="text-decoration: underline;">2023</h2>
 
-* [Beyond binary](/non-tech-learning/beyond-binary/) is a realization that we (humans) are as important in cybersecurity as the systems we yearn to protect. (December)
+* [Beyond Binary](/non-tech-learning/beyond-binary/) is a realization that we (humans) are as important in cybersecurity as the systems we yearn to protect. (December)
 
 * [Eat That Frog](/non-tech-learning/eat-that-frog/) is a summary of the book by Brian Tracy and the key points I took away. (January)
 
