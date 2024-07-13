@@ -41,7 +41,7 @@ This was the final day of the course and we took part in the SEC450 Defend the F
 The facilitators then stayed on to assist with tear-down of the venue, removing SANS banners and and so on, as well as assisting with loading all SANS-related equipment throughout the course of the event.  
 
 ## Key takeaways
-- 📚 Absorb what you can: The In-Person SANS experience is literally being firehosed with tonnes of information; take in whatever you can and reinforce the rest of the knowledge via the on-demand videos.
+- 📚 Absorb what you can: The In-Person SANS experience is literally being firehosed with tonnes of information; take in whatever you can from the instructor and reinforce the rest of the knowledge via the on-demand videos.
 - 🤝 Networking is invaluable: The connections I made at SANS London are ones I will cherish and maintain.  
 - 🔄 Adaptability is crucial: From unboxing to arranging course content and swag, staying flexible and having fun is key.  
 - 📈 Continuous learning: The cybersecurity field is ever-evolving, and events like these are essential for staying updated and learning from other cybsersecurity professionals.  
