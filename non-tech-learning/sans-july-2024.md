@@ -8,7 +8,7 @@ description: "My Experience at SANS London July 2024 & SEC450"
 <h1>{{ page.title }}</h1>
 <p class="subtitle">July 2024</p>
 <div style="text-align: center;">
-    <img src="/images/sans-badge.jpg" alt="SANS badge" style="max-width: 80%; height: 80%;" title="SANS badge">
+    <img src="/images/sans-sec450.webp" alt="main article image" style="max-width: 80%; height: 80%;" title="SANS SEC450">
 </div>
 
 The following is a recollection of my first SANS in-person event at SANS London, July 2024. I was also selected for the SANS Work Study Programme, which allowed me to take part in a course of my selection, at a fraction of the price, while assisting with venue setup & tear-down as well as providing any other assistance that the course instructor or SANS event team may require.
@@ -49,3 +49,8 @@ The facilitators then stayed on to assist with tear-down of the venue, removing 
 - 📈 Continuous learning: The cybersecurity field is ever-evolving, and events like these are essential for staying updated and learning from other cybsersecurity professionals.  
 
 In conclusion, being a SANS facilitator at the London July 2024 event was a transformative experience. Even though it was initially tiring, it ended up being super fun and worth it in the end. It reinforced my passion for cybersecurity and my commitment to continuous learning and community engagement. If you're considering participating in a SANS Work Study programme, I highly recommend it. You'll gain knowledge, make lasting connections, and contribute to the vibrant cybersecurity community.
+
+
+<div style="text-align: center;">
+    <img src="/images/sans-badge.jpg" alt="SANS badge" style="max-width: 80%; height: 80%;" title="SANS badge">
+</div>
