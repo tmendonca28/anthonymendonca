@@ -7,7 +7,9 @@ description: "My Experience at SANS London July 2024 & SEC450"
 
 <h1>{{ page.title }}</h1>
 <p class="subtitle">July 2024</p>
-<img class="center" src="/images/sans-badge.jpg" style="max-width: 80%; height: auto;" alt="SANS badge" title="SANS badge" />
+<div style="text-align: center;">
+    <img src="/images/sans-badge.jpg" alt="SANS badge" style="max-width: 80%; height: 80%;" title="SANS badge">
+</div>
 
 The following is a recollection of my first SANS in-person event at SANS London, July 2024. I was also selected for the SANS Work Study Programme, which allowed me to take part in a course of my selection, at a fraction of the price, while assisting with venue setup & tear-down as well as providing any other assistance that the course instructor or SANS event team may require.
 
