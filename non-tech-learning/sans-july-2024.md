@@ -7,7 +7,7 @@ description: "My Experience at SANS London July 2024 & SEC450"
 
 <h1>{{ page.title }}</h1>
 <p class="subtitle">July 2024</p>
-<img class="center" src="/images/sans-badge.JPG" alt="Eat That Frog" title="Eat That Frog" />
+<img class="center" src="/images/sans-badge.jpg" alt="SANS badge" title="SANS badge" />
 
 The following is a recollection of my first SANS in-person event at SANS London, July 2024. I was also selected for the SANS Work Study Programme, which allowed me to take part in a course of my selection, at a fraction of the price, while assisting with venue setup & tear-down as well as providing any other assistance that the course instructor or SANS event team may require.
 
@@ -23,7 +23,7 @@ The course I had applied for was [SEC450] (https://www.sans.org/cyber-security-c
 ### Set-Up (Sunday)
 This consisted mainly of getting acquainted with both the SANS Event Team as well as the other facilitators for the courses running at SANS London July 2024. It consisted of an orientation session followed by unpacking all student course content and swag, and subsequently arranging them. It was a great team effort and was fun to meet with like-minded cybersecurity professionals, some travelling from as far as Italy and Spain to be part of the Work Study Programme. It offered a good chance to network amongst facilitators and work as a team to complete the set-up of each of the rooms as well as "SANS-ify" all the floors that were to be in use. We also got to meet a few of the instructors in the evening who came to familiarize themselves with the venue.  
 <div style="text-align: center;">
-    <img src="/images/sans-setup.png" alt="setup" style="max-width: 80%; height: auto;" title="setup">
+    <img src="/images/sans-setup.jpg" alt="setup" style="max-width: 80%; height: auto;" title="setup">
 </div>
 
 ### Day 1 & 2
