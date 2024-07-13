@@ -18,8 +18,8 @@ The following is a recollection of my first SANS in-person event at SANS London,
 For those unfamiliar, the [SANS Work Study Programme](https://www.sans.org/work-study-program/) is a fantastic opportunity for cybersecurity professionals to learn from industry experts while also supporting the smooth running of the event. As a facilitator, my role was to assist with course logistics, ensure everything ran smoothly, and help students with their queries.  
 I applied for the SANS London July 2024 event sometime in December 2023, and received the acceptance about 2 weeks prior to the event. Thrilled was an understatement as I had recently completed my GWEB and I had a chance to attend the training for and sit for another GIAC certification in the span of a few months (the GSOC) so I jumped at the opportunity.  
 
-## SEC 450
-The course I had applied for was [SEC450](https://www.sans.org/cyber-security-courses/blue-team-fundamentals-security-operations-analysis/)is designed to equip students with essential skills for working in a Security Operations Center (SOC). I would learn how to efficiently collect and analyze security data, implement effective incident response strategies, reduce false positives, and automate routine tasks. The course includes hands-on labs and a capstone Defend the Flag competition, providing practical experience with real-world tools and scenarios. Succesful students will be well-prepared to detect and counter advanced cyber threats, making them invaluable assets to any cyber defense team.
+## SEC450
+The course I had applied for was [SEC450](https://www.sans.org/cyber-security-courses/blue-team-fundamentals-security-operations-analysis/) is designed to equip students with essential skills for working in a Security Operations Center (SOC). I would learn how to efficiently collect and analyze security data, implement effective incident response strategies, reduce false positives, and automate routine tasks. The course includes hands-on labs and a capstone Defend the Flag competition, providing practical experience with real-world tools and scenarios. Succesful students will be well-prepared to detect and counter advanced cyber threats, making them invaluable assets to any cyber defense team.
 
 ## DAY-BY-DAY HIGHLIGHTS
 ### Set-up (Sunday)
@@ -36,7 +36,7 @@ There was a social event held on Day 3 which allowed all the students to meet an
 
 ### Day 4 & 5
 After class on these days, there were the SANS NetWars CTF held on both days between 6:30pm - 9:30 pm which allowed students to participate as individuals or in teams. This was extremely fun as I quite enjoy partaking in CTFs and the top 5 individuals as well as the top team would earn themselves a SANS Coin.  
-I managed to garner 4th place in the CTF which I was super proud of, and the SANS Coin I won is here:  **(SANS NetWars Coin Loading....)**  
+I managed to garner 4th place individually 🎉 in the CTF which I was super proud of, and the SANS Coin I won is here:  **(SANS NetWars Coin Loading, Awaiting Shipment....)**  
 
 ### Day 6 (Saturday)
 This was the final day of the course and we took part in the SEC450 Defend the Flag CTF. This CTF was specific to the class incorporating learnings and tools introduced throughout the duration of the course. We were grouped into teams and given about 5 hours to get through the challenges. The top team here was then awarded the SEC450 SANS Coin. The team I was a part of came 2nd, and we were all super proud of the achievement. It was a great experience, quite competitive and also decently fun to work together to find flags or brainstorm on a given challenge.  
