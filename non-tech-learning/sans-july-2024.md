@@ -40,7 +40,7 @@ I managed to garner 4th place in the CTF which I was super proud of, and the SAN
 This was the final day of the course and we took part in the SEC450 Defend the Flag CTF. This CTF was specific to the class incorporating learnings and tools introduced throughout the duration of the course. We were grouped into teams and given about 5 hours to get through the challenges. The top team here was then awarded the SEC450 SANS Coin. The team I was a part of came 2nd, and we were all super proud of the achievement. It was a great experience, quite competitive and also decently fun to work together to find flags or brainstorm on a given challenge.  
 The facilitators then stayed on to assist with tear-down of the venue, removing SANS banners and and so on, as well as assisting with loading all SANS-related equipment throughout the course of the event.  
 
-## Key takeaways
+## KEY TAKEAWAYS
 - 📚 Absorb what you can: The In-Person SANS experience is literally being firehosed with tonnes of information; take in whatever you can from the instructor and reinforce the rest of the knowledge via the on-demand videos.
 - 🤝 Networking is invaluable: The connections I made at SANS London are ones I will cherish and maintain.  
 - 🔄 Adaptability is crucial: From unboxing to arranging course content and swag, staying flexible and having fun is key.  
