@@ -36,7 +36,10 @@ There was a social event held on Day 3 which allowed all the students to meet an
 
 ### Day 4 & 5
 After class on these days, the SANS NetWars CTF was held which spanned both days between 6:30pm - 9:30 pm that allowed students to participate as individuals or in teams. This was extremely fun as I quite enjoy partaking in CTFs and the top 5 individuals as well as the top team would earn themselves a SANS Coin.  
-I managed to garner 4th place individually 🎉 in the CTF which I was super proud of, and the SANS Coin I won is here:  **(SANS NetWars Coin Loading, Awaiting Shipment....)**  
+I managed to garner 4th place individually 🎉 in the CTF which I was super proud of, and the SANS Coin I won is here:
+<div style="text-align: center;">
+    <img src="/images/sans-netwars-coin.jpg" alt="setup" style="max-width: 80%; height: auto;" title="setup">
+</div>
 
 ### Day 6 (Saturday)
 This was the final day of the course and we took part in the SEC450 Defend the Flag CTF. This CTF was specific to the class incorporating learnings and tools introduced throughout the duration of the course. We were grouped into teams and given about 5 hours to get through the challenges. The top team here was then awarded the SEC450 SANS Coin. The team I was a part of came 2nd, and we were all super proud of the achievement. It was a great experience, quite competitive and also decently fun to work together to find flags or brainstorm on a given challenge.  
