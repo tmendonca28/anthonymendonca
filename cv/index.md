@@ -19,7 +19,7 @@ permalink: /cv/
 
 ## Summary
 
-I’m a technically-minded cybersecurity consultant with a software engineering background. I have a strong interest in product and cloud security as well as developing security solutions that would better secure a given product or organisation.
+I’m a technically-minded cybersecurity consultant with a software engineering background. I have a strong interest in blue teaming and application security as well as developing security solutions that would better secure a given product or organisation.
 
 I have an extremely strong work ethic, quickly adapt my ways of work to suit the problem at hand and analyse problems thoroughly (not to the extent of analysis paralysis) in order to develop the optimal solution.
 
@@ -30,11 +30,14 @@ I live in London, but I was born and raised in Nairobi, Kenya. I've also spent a
 ### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant, Cyber
 #### January 2023 to present
 
+*  Cyber Fusion Centre design for global shipping and transportation company: Improved security operations efficiency by 60% by redesigning roles and responsibilities, aligning with CISO strategy, and addressing existing structural gaps. Developed 5 Incident Response playbooks to be used in scenarios ranging from ransomware and phishing to insider threat. Developed 25+ threat hunting queries in KQL for the proactive discovery of threats across their environment with a focus on Initial Access, Execution and Data Exfiltration.
+*  Threat detection uplift for European online retail and fashion client: Enhanced threat detection through the development of 13 targeted SOC use cases such as ransomware, cryptomining, and data exfiltration by assessing existing security tooling and using MITRE ATT&CK heatmaps.
 *  Global top 5 FMCG client: As part of it’s security transformation journey, championed the conceptualization and
 establishment of a robust security metrics program aligned with NIST CSF, driving data-driven reporting and
 analysis. Developed a balanced security scorecard that allowed for better decision-making and spend of it’s cyber
 budget.
 *  European online retail and fashion client: Developed detailed threat intelligence and analysis using the MITRE ATT&CK framework and open-source threat intelligence to identify security information and event management (SIEM) use cases for both development and enhancement.
+*  Information security effectiveness program development for global electrical engineering and electronics client: Elevated security posture by 25% through the implementation of strategic security metrics and a robust governance strategy.
 
 ## Experience
 
@@ -43,33 +46,33 @@ budget.
 
 *  Developing a secure network design for a Swiss luxury watch maker. This involves implementing network security
 best practices, conducting threat modeling using the MITRE ATT&CK framework and ultimately building out a 3-year
-network security strategy
+network security strategy.
 *  Developed technical implementation guidance with relation to ransomware server hardening for a global consulting
-services client. Done using PowerShell scripts and Chef recipes
+services client. Done using PowerShell scripts and Chef recipes.
 *  Developed a next generation secure network strategy implementation roadmap that would underpin the global
 network security transformation for a multinational consulting services client. This included adoption strategies for
-Secure Access Service Edge and Zero Trust
+Secure Access Service Edge and Zero Trust.
 *  Developed low-level system implementation guidance to improve the current security posture for a national
 scientific research client. This was a post-vulnerability assessment activity and improved the organization’s security
-posture by 75%
+posture by 75%.
 
 ### [BT Group](https://www.bt.com/) &ndash; Cyber Security Intern
 #### September 2019 to June 2020
 
-*  Developed a neural network model that increases the proactive detection of malicious domains by 70%
+*  Developed a neural network model that increases the proactive detection of malicious domains by 70%.
 *  Developed Splunk queries and dashboards to determine root cause analysis of device misconfigurations leading to
-75% increase in turnaround time
+75% increase in turnaround time.
 * Built automation tools related to detecting secrets exposed on GitHub and DNS hygiene increasing BT’s security
-posture by 80%
-* Developed threat intelligence queries on Microsoft ATP platform using KQL to detect Privilege Escalation
+posture by 80%.
+* Developed threat intelligence queries on Microsoft ATP platform using KQL to detect Privilege Escalation.
 
 ### [IBM Research](https://research.ibm.com/) &ndash; Software Engineer Intern
 #### June 2018 to August 2018
 
 *  Designed and developed features for a diagnosis and testing tool for cloud-based microservices increasing API
-response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then further extended by other research teams in agriculture, financial services and healthcare to reduce latency
-*  Implemented unit tests using Java (Spring Boot) with JUnit and Mockito increasing test coverage
-*  Implemented integration and load tests in Python using Locust to gauge and improve API responsiveness
+response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then further extended by other research teams in agriculture, financial services and healthcare to reduce latency.
+*  Implemented unit tests using Java (Spring Boot) with JUnit and Mockito increasing test coverage.
+*  Implemented integration and load tests in Python using Locust to gauge and improve API responsiveness.
 
 
 ## Technical Skills
