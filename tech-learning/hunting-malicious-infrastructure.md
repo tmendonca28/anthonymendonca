@@ -12,7 +12,7 @@ description: "Hunting Malicious Infrastructure: A Practical Guide to Identifying
 
 Identifying and tracking Command and Control (C2) servers is a critical skill for threat hunters and analysts. Threat actors use these servers to control malware remotely, steal sensitive data and launch further attacks. Also, MITRE has broken down generalized techniques for **Command and Control** [here](https://attack.mitre.org/tactics/TA0011/) with relation to the ATT&CK framework.  
 
-## What is a C2 Server?
+## WHAT IS A C2 SERVER?
 A C2 server is an external server used by threat actors to send commands and receive data from compromised systems within a victim's network. They are vital for maintaining control over the malware, exfiltrating data or issuing commands for further attacks.  
 ### Example
 Think of a botnet, where each compromised machine connects to a C2 server for instructions. This can be used to send payloads to infected systems or initiate a DDoS attack against targets. Understanding how these servers operate is useful in threat hunting.
