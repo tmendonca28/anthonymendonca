@@ -11,6 +11,7 @@ I tend to spend a good portion of my day learning and implementing technical con
 You can learn about my coding projects on my [GitHub](https://github.com/tmendonca28).
 
 <h2 id="y2024" style="text-decoration: underline;">2024</h2>
+* [Hunting Malicious Infrastructure](/tech-learning/hunting-malicious-infrastructure/) focuses on the identification and tracking of C2 servers. (August)
 
 <h2 id="y2023" style="text-decoration: underline;">2023</h2>
 * [Exploring CodeQL](/tech-learning/exploring-codeql/) explores CodeQL, a code analysis tool developed by GitHub to scan code for vulnerabilities. (December)
