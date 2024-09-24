@@ -69,7 +69,7 @@ rule DetectMaliciousInfrastructure {
 }
 ```
   
-**Suricate Rule Example:**
+**Suricata Rule Example:**
 [Suricata](https://docs.suricata.io/en/latest/rules/index.html) can be used for real-time network monitoring. Here's an example rule to detect traffic to one of the malicious IP addresses identified earlier:  
 ```
 alert http any any -> xxx.xxx.x.xxx any (msg:"Malicious C2 Traffic Detected"; sid:100001;)
