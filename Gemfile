@@ -2,6 +2,5 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-
-gem "jekyll", "~> 4.3"
+# Use the GitHub Pages gem which includes Jekyll + compatible plugins
+gem "github-pages", "232", group: :jekyll_plugins
