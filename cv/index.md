@@ -30,6 +30,8 @@ I live in London, but I was born and raised in Nairobi, Kenya. I've also spent a
 ### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant, Cyber
 #### January 2023 to present
 
+*  Post-ransomware Security Transformation for a global retailer: Enabled the client to initiate a global ransomware resilience program impacting 5+ regions and over 200K endpoints by defining a project charter definition workflow, establishing a global architecture design board, and formalizing cross-regional security governance between the regions, where none existed.
+*  Cyber Maturity Assessment for global trip services provider: Accomplished a comprehensive baseline of security and fraud team maturity across people, processes, and technology. Delivered 3 tailored reports by designing and executing a custom CMMI-based maturity framework, facilitating targeted stakeholder workshops, and co-authoring a threat landscape, gap analysis, and actionable recommendations report.
 *  Cyber Fusion Centre design for global shipping and transportation company: Improved security operations efficiency by 60% by redesigning roles and responsibilities, aligning with CISO strategy, and addressing existing structural gaps. Developed 5 Incident Response playbooks to be used in scenarios ranging from ransomware and phishing to insider threat. Developed 25+ threat hunting queries in KQL for the proactive discovery of threats across their environment with a focus on Initial Access, Execution and Data Exfiltration.
 *  Threat detection uplift for European online retail and fashion client: Enhanced threat detection through the development of 13 targeted SOC use cases such as ransomware, cryptomining, and data exfiltration by assessing existing security tooling and using MITRE ATT&CK heatmaps.
 *  Global top 5 FMCG client: As part of it’s security transformation journey, championed the conceptualization and
@@ -90,7 +92,9 @@ I have a BSc. Computer Science from the University of Nairobi which I completed 
 
 ## Certifications
 
+*  **[GIAC Security Operations Certified (GSOC)](https://www.credly.com/badges/35ecf419-7581-4622-85fe-969cd2010146)**: Nov 2024 - Nov 2028  
 *  **[GIAC Certified Web Application Defender (GWEB)](https://www.credly.com/badges/e79c9d8c-5596-4e10-a7a5-a4d0803dc497/)**: June 2024 - June 2028  
+*  **[INSEAD Mastering Creative Thinking](https://certificate.insead.edu/9f7e54d0-8629-43b4-a57e-7c336167d0d3#acc.I7PYnGpM)**: Does not expire 
 *  **[COMPTIA Security+](https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile)**: March 2021 - March 2027
 *  **[GCP Associate Cloud Engineer](https://www.credential.net/5a883d38-c5d2-4190-9a0e-c23dbc1a0a47)**: April 2022 - April 2025
 *  **[Certified DevSecOps Professional](https://www.credly.com/badges/164b83d7-b687-493c-9490-e9a4c31d08e6/public_url)**: Does not expire
