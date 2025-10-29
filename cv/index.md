@@ -92,6 +92,7 @@ I have a BSc. Computer Science from the University of Nairobi which I completed 
 
 ## Certifications
 
+*  **[GIAC Penetration Tester (GPEN)](https://www.credly.com/badges/1296a6f0-6618-4c37-bd3f-3895ed2946ea/public_url)**: Oct 2025 - Oct 2029  
 *  **[GIAC Security Operations Certified (GSOC)](https://www.credly.com/badges/35ecf419-7581-4622-85fe-969cd2010146)**: Nov 2024 - Nov 2028  
 *  **[GIAC Certified Web Application Defender (GWEB)](https://www.credly.com/badges/e79c9d8c-5596-4e10-a7a5-a4d0803dc497/)**: June 2024 - June 2028  
 *  **[INSEAD Mastering Creative Thinking](https://certificate.insead.edu/9f7e54d0-8629-43b4-a57e-7c336167d0d3#acc.I7PYnGpM)**: Does not expire 
