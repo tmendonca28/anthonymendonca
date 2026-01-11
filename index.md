@@ -9,9 +9,9 @@ permalink: /
 
 # Anthony Mendonca
 
-Hey! I'm currently a Senior Consultant in [Booz Allen Hamilton's](https://www.boozallen.com/) Commercial Cyber team. Previously, I worked at [Deloitte UK](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [resume/CV](/cv/)
+Hey! I'm currently an Associate (Manager) in [Booz Allen Hamilton's](https://www.boozallen.com/) Commercial Cyber team. Previously, I worked at [Deloitte UK](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [resume/CV](/cv/)
 
-My interests lie in Blue Teaming, Application Security, DevSecOps and building scalable solutions securely.
+My interests lie in Blue Teaming, Application Security, Offensive Security and building scalable solutions securely.
 
 I really enjoy learning about being the best version of myself and write a few articles on interesting reads & experiences [here](/non-tech-learning/). I also keep a record of learning technical concepts [here](/tech-learning/).
 

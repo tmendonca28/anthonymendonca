@@ -27,8 +27,11 @@ I live in London, but I was born and raised in Nairobi, Kenya. I've also spent a
 
 ## Experience
 
+### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Associate, Cyber
+#### January 2026 to present
+
 ### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant, Cyber
-#### January 2023 to present
+#### January 2023 to December 2025
 
 *  Post-ransomware Security Transformation for a global retailer: Enabled the client to initiate a global ransomware resilience program impacting 5+ regions and over 200K endpoints by defining a project charter definition workflow, establishing a global architecture design board, and formalizing cross-regional security governance between the regions, where none existed.
 *  Cyber Maturity Assessment for global trip services provider: Accomplished a comprehensive baseline of security and fraud team maturity across people, processes, and technology. Delivered 3 tailored reports by designing and executing a custom CMMI-based maturity framework, facilitating targeted stakeholder workshops, and co-authoring a threat landscape, gap analysis, and actionable recommendations report.
