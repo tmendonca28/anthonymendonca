@@ -139,6 +139,21 @@ a:link, a:visited { color: #301800; }
 #footer p { margin: 0.3em 0; }
 #footer a { border-bottom: none; color: #777; }
 #footer a:hover { border-bottom: 1px solid; color: #000080; }
+@media (prefers-color-scheme: dark) {
+body { background: #1a1a1a; color: #d8d8d8; }
+#menu { border-bottom-color: #2e2e2e; }
+#menu .site-title { color: #555; }
+#menu .site-title a, #menu .site-title a:hover { color: #555; }
+#menu a { color: #78afd4; }
+a:link { color: #78afd4; }
+a:visited { color: #78afd4; }
+h1 a:hover, h1 a:link, h1 a:visited, h2 a:hover, h2 a:link, h2 a:visited { color: #d8d8d8; }
+blockquote { border-left-color: #444; }
+.highlight { background: #262626; }
+#footer { border-top-color: #2e2e2e; color: #555; }
+#footer a { color: #555; }
+#footer a:hover { color: #78afd4; }
+}
  </style>
 {% include analytics.html %}
 </head>
