@@ -135,6 +135,10 @@ a:link, a:visited { color: #301800; }
 .highlight .vi { color: #aa0000 }
 .highlight .vm { color: #aa0000 }
 .highlight .il { color: #009999 }
+#footer { margin: 3em auto 1.5em; width: 92.5%; max-width: 700px; border-top: 1px solid #D3D3D3; padding-top: 1em; font-size: 80%; color: #777; text-align: center; }
+#footer p { margin: 0.3em 0; }
+#footer a { border-bottom: none; color: #777; }
+#footer a:hover { border-bottom: 1px solid; color: #000080; }
  </style>
 {% include analytics.html %}
 </head>
@@ -155,18 +159,26 @@ a:link, a:visited { color: #301800; }
   <li>{% if page.url == '/cv/' %}<b>Resume/CV</b>{% else %}<a href="/cv/" title="Go to my Resume/CV">Resume/CV</a>{% endif %}</li>
   <li>{% if page.url == '/tech-learning/' %}<b>Tech Learning</b>{% else %}<a href="/tech-learning/" title="Tech Stuff">Tech Learning</a>{% endif %}</li>
   <li>{% if page.url == '/non-tech-learning/' %}<b>Non-Tech Learning</b>{% else %}<a href="/non-tech-learning/" title="Non-tech Stuff">Non-Tech Learning</a>{% endif %}</li>
-  <li><a href="mailto:demiosphobos28@gmail.com" title="Email me">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/anthony-mendonca/" title="LinkedIn">LinkedIn</a></li>
  </ul>
 
  <ul class="links print-only">
-  <!-- <li><a href="xxx">anthonymendonca.me</a> -->
-  <li><a href="mailto:demiosphobos28@gmail.com">demiosphobos28@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/anthony-mendonca/">linkedin.com/in/anthony-mendonca</a></li>
  </ul>
 </div>
 
 <div id="content">
 {{ content }}
 </div>
+
+<footer id="footer" class="no-print">
+ <p>
+  <a href="https://github.com/tmendonca28" title="GitHub">GitHub</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/anthony-mendonca/" title="LinkedIn">LinkedIn</a>
+ </p>
+ <p>&copy; {{ site.time | date: '%Y' }} Anthony Mendonca</p>
+</footer>
 
 </div>
 
