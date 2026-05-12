@@ -24,12 +24,15 @@
  <meta name="twitter:title" content="{{ page.title | escape }}">
  <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}Anthony Mendonca is a security engineer and life-long learner.{% endif %}">
  <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/profile-pic.jpg{% endif %}">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
  <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 {% if page.rss_url %}
  <link rel="alternate" type="application/rss+xml" href="{{ page.rss_url }}" title="RSS feed">
 {% endif %}
  <style type="text/css">
-body { background: #0a192f; color: #ccd6f6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 17px; line-height: 1.6; word-spacing: 0.1em; margin: 0 auto; max-width: 1000px; }
+body { background: #0a192f; color: #ccd6f6; font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 17px; line-height: 1.6; word-spacing: 0.1em; margin: 0 auto; max-width: 1000px; }
 #menu { margin: 0 auto; width: 92.5%; height: 5.5em; border-bottom: 1px solid #1d3557; }
 #menu .site-title { float: left; font-size: 225%; color: #8892b0; letter-spacing: 0.15em; padding: 0.45em 0; text-transform: uppercase; margin-left: -0.05em; }
 #menu .site-title a, #menu .site-title a:hover { color: #8892b0; text-decoration: none; }
