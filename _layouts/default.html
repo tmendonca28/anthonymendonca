@@ -1,5 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
  <title>{{ page.title }}</title>
@@ -12,6 +12,18 @@
  <meta name="keywords" content="Anthony Mendonca, Deloitte, Cybersecurity">
 {% endif %}
  <meta name="author" content="Anthony Mendonca">
+ <!-- Open Graph -->
+ <meta property="og:site_name" content="Anthony Mendonca">
+ <meta property="og:title" content="{{ page.title | escape }}">
+ <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}Anthony Mendonca is a security engineer and life-long learner.{% endif %}">
+ <meta property="og:type" content="{% if page.description %}article{% else %}website{% endif %}">
+ <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+ <meta property="og:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/profile-pic.jpg{% endif %}">
+ <!-- Twitter Card -->
+ <meta name="twitter:card" content="summary">
+ <meta name="twitter:title" content="{{ page.title | escape }}">
+ <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}Anthony Mendonca is a security engineer and life-long learner.{% endif %}">
+ <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/profile-pic.jpg{% endif %}">
  <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 {% if page.rss_url %}
  <link rel="alternate" type="application/rss+xml" href="{{ page.rss_url }}" title="RSS feed">

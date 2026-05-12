@@ -5,7 +5,7 @@ permalink: /tech-learning/sase-101/
 description: "Understanding the fundamentals of SASE"
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">August 2022</p>
+<p class="subtitle">August 2022 &middot; {% include reading-time.html %}</p>
 
 ## Introduction
 Digital transformation and adoption of mobile, cloud and edge deployment change the fundamental network traffic patterns. This renders existing network and security models obsolete especially in the post-COVID world.  

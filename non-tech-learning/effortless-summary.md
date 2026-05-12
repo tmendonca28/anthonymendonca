@@ -6,7 +6,7 @@ description: "Effortless"
 ---
 
 <h1>{{ page.title }}</h1>
-<p class="subtitle">September 2022</p>
+<p class="subtitle">September 2022 &middot; {% include reading-time.html %}</p>
 
 In my opinion, one of the main takeaways is that **life does not have to be as hard nor as complicated as we set out to make it**.
 The book talks about 3 key areas to focus on in order to make tasks effortless.

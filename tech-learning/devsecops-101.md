@@ -5,7 +5,7 @@ permalink: /tech-learning/devsecops-101/
 description: "Starting my journey in DevSecOps"
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">September 2022</p>
+<p class="subtitle">September 2022 &middot; {% include reading-time.html %}</p>
 <img class="center" src="/images/devsecops-article.png" alt="ISP Snooping" title="ISP Snooping" />
 
 In September 2022, I decided to enroll in the [Certified DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) course to learn a bit more about DevSecOps as well as gain real-world technical skills to incorporate security into a CI/CD pipeline. I supplemented this learning with tonnes of freely available internet resources and decided to document my learning to keep myself accountable.

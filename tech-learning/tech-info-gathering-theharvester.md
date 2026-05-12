@@ -5,7 +5,7 @@ permalink: /tech-learning/tech-info-gathering-theharvester/
 description: "Getting up and running with theHarvester for OSINT."
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">August 2022</p>
+<p class="subtitle">August 2022 &middot; {% include reading-time.html %}</p>
 
 ## Intro
 It allows one to gather bother technical and people information on a given target.  

@@ -5,7 +5,7 @@ permalink: /tech-learning/exploring-codeql/
 description: "Exploring CodeQL: A Practical Guide"
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">December 2023</p>
+<p class="subtitle">December 2023 &middot; {% include reading-time.html %}</p>
 <div style="text-align: center;">
     <img src="/images/codeql-article.jpeg" alt="CodeQL" title="CodeQL: A Practical Guide">
 </div>

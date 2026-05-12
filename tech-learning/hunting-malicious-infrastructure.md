@@ -5,7 +5,7 @@ permalink: /tech-learning/hunting-malicious-infrastructure/
 description: "Hunting Malicious Infrastructure: C2 Servers"
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">September 2024</p>
+<p class="subtitle">September 2024 &middot; {% include reading-time.html %}</p>
 <!-- <div style="text-align: center;">
     <img src="/images/hmi.jpeg" alt="hmi" title="hmi">
 </div> -->

@@ -6,7 +6,7 @@ description: "My Experience at SANS London July 2024 & SEC450"
 ---
 
 <h1>{{ page.title }}</h1>
-<p class="subtitle">July 2024</p>
+<p class="subtitle">July 2024 &middot; {% include reading-time.html %}</p>
 <div style="text-align: center;">
     <img src="/images/sans-sec450.webp" alt="main article image" style="max-width: 80%; height: auto;" title="SANS SEC450">
 </div>

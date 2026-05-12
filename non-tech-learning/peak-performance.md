@@ -6,7 +6,7 @@ description: "Peak Performance"
 ---
 
 <h1>{{ page.title }}</h1>
-<p class="subtitle">2025</p>
+<p class="subtitle">2025 &middot; {% include reading-time.html %}</p>
 
 Recently, I found myself asking a familiar question "*Why do some days feel super productive, while others feel busy but hollow?*"  
 

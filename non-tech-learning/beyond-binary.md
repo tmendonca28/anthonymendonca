@@ -6,7 +6,7 @@ description: "Beyond Binary"
 ---
 
 <h1>{{ page.title }}</h1>
-<p class="subtitle">December 2023</p>
+<p class="subtitle">December 2023 &middot; {% include reading-time.html %}</p>
 
 <div style="text-align: center;">
     <img src="/images/beyond-binary.jpeg" alt="Beyond Binary" title="Beyond Binary">

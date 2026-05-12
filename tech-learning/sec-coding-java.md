@@ -5,7 +5,7 @@ permalink: /tech-learning/sec-coding-java/
 description: "A few security best practices when writing Java code."
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">July 2022</p>
+<p class="subtitle">July 2022 &middot; {% include reading-time.html %}</p>
 
 ## Intro
 Defensive or secure coding is mainly done so as to improve source code in terms of:
