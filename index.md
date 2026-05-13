@@ -11,13 +11,14 @@ permalink: /
 <p class="hero-subtitle">Cybersecurity Professional</p>
 
 <div class="cv-prose">
-<p>Hey! I'm currently an Associate (Manager) in <a href="https://www.boozallen.com/">Booz Allen Hamilton's</a> Commercial Cyber team. Previously, I worked at <a href="https://www2.deloitte.com/uk">Deloitte UK</a> as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both <a href="https://www.bt.com/">BT</a> and <a href="https://research.ibm.com/labs/africa/">IBM Research Africa</a>. You can learn more about all this from my <a href="/about-me/">About Me</a> page.</p>
-
+<p>I'm a cybersecurity professional specialising in detection engineering, adversary emulation, and application security &mdash; currently an Associate at <a href="https://www.boozallen.com/">Booz Allen Hamilton</a>, previously at <a href="https://www2.deloitte.com/uk">Deloitte UK</a>. Full detail on my <a href="/about-me/">About Me</a> page.</p>
 </div>
 
-<div class="pills-container" style="margin: 1em 0 1.2em;">
+<div class="pills-container" style="margin: 1em 0 1.8em;">
 <span class="pill">Blue Teaming</span><span class="pill">Threat Hunting</span><span class="pill">Detection Engineering</span><span class="pill">Adversarial Emulation</span><span class="pill">Application Security</span><span class="pill">Offensive Security</span><span class="pill">Secure Development</span>
 </div>
+
+<div class="year-label">Writing</div>
 
 <div class="writing-cards">
   <a href="/tech-learning/" class="writing-card">
@@ -31,7 +32,7 @@ permalink: /
 </div>
 
 
-## Videos I Find Inspiring
+<div class="year-label">Videos I Find Inspiring</div>
 
 <div class="experience-entries">
 
