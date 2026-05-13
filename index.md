@@ -11,7 +11,7 @@ permalink: /
 <p class="hero-subtitle">Cybersecurity Professional</p>
 
 <div class="cv-prose">
-<p>I'm a cybersecurity professional specialising in detection engineering, adversary emulation, and application security &mdash; currently an Associate at <a href="https://www.boozallen.com/">Booz Allen Hamilton</a>, previously at <a href="https://www2.deloitte.com/uk">Deloitte UK</a>. Full detail on my <a href="/about-me/">About Me</a> page.</p>
+<p>I'm a cybersecurity professional specialising in detection engineering, adversary emulation, and application security - currently an Associate at <a href="https://www.boozallen.com/">Booz Allen Hamilton</a>, previously at <a href="https://www2.deloitte.com/uk">Deloitte UK</a>. Full detail on my <a href="/about-me/">About Me</a> page.</p>
 </div>
 
 <div class="pills-container" style="margin: 1em 0 1.8em;">
@@ -27,7 +27,7 @@ permalink: /
   </a>
   <a href="/non-tech-learning/" class="writing-card">
     <div class="writing-card-title">Non-technical Learning</div>
-    <p class="writing-card-desc">Book summaries and reflections on becoming 1% better every day.</p>
+    <p class="writing-card-desc">Book summaries, musings and reflections on becoming 1% better every day.</p>
   </a>
 </div>
 
