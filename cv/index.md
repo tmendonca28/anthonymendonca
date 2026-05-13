@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Anthony Mendonca's Resume/CV
-permalink: /cv/
+title: About Me
+permalink: /about-me/
 ---
 <h1 id="agm-resumecv" class="no-print">{{ page.title }}</h1>
 
