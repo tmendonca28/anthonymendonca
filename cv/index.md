@@ -8,7 +8,7 @@ permalink: /about-me/
 <nav class="cv-nav no-print">
  <a href="#summary">Summary</a>
  <a href="#certifications">Certifications</a>
- <a href="#skills">Skills</a>
+ <a href="#technical-skills">Skills</a>
  <a href="#experience">Experience</a>
  <a href="#education">Education</a>
  <a href="/cv/AnthonyMendonca_Resume_December2025_Website.pdf" title="PDF version of my resume / CV">PDF ↓</a>
