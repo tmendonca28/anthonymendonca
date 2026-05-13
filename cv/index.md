@@ -231,7 +231,17 @@ permalink: /about-me/
 
 ## Education
 
-**MSc Applied Cybersecurity** &mdash; Queen's University Belfast, 2020  
-Thesis: [Machine Learning for Network Intrusion Detection](https://github.com/tmendonca28/DLNID)
+<div class="experience-entries">
 
-**BSc Computer Science** &mdash; University of Nairobi, 2017
+ <div class="exp-entry">
+  <h3>MSc Applied Cybersecurity &mdash; <a href="https://www.qub.ac.uk/">Queen's University Belfast</a></h3>
+  <div class="exp-meta">2020 &middot; Belfast, UK</div>
+  <p>Thesis: <a href="https://github.com/tmendonca28/DLNID">Machine Learning for Network Intrusion Detection</a></p>
+ </div>
+
+ <div class="exp-entry">
+  <h3>BSc Computer Science &mdash; <a href="https://www.uonbi.ac.ke/">University of Nairobi</a></h3>
+  <div class="exp-meta">2017 &middot; Nairobi, Kenya</div>
+ </div>
+
+</div>
