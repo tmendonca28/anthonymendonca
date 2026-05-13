@@ -5,16 +5,14 @@ permalink: /cv/
 ---
 <h1 id="agm-resumecv" class="no-print">{{ page.title }}</h1>
 
-<blockquote>
- <p class="no-print"><b>🢂:</b>
-  <a href="#summary">Summary</a> |
-  <a href="#experience">Experience</a> |
-  <a href="#skills-what-i-do">Skills</a> |
-  <a href="#education">Education</a> |
-  <a href="#about-me">About me</a> |
-  <a href="/cv/AnthonyMendonca_Resume_December2025_Website.pdf" title="PDF version of my resume / CV">PDF</a>
- </p>
-</blockquote>
+<nav class="cv-nav no-print">
+ <a href="#summary">Summary</a>
+ <a href="#experience">Experience</a>
+ <a href="#skills-what-i-do">Skills</a>
+ <a href="#education">Education</a>
+ <a href="#about-me">About me</a>
+ <a href="/cv/AnthonyMendonca_Resume_December2025_Website.pdf" title="PDF version of my resume / CV">PDF ↓</a>
+</nav>
 
 
 ## Summary
@@ -82,10 +80,24 @@ response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then fur
 
 ## Technical Skills
 
-*  **Languages**: Python, Java, Golang, SQL, JavaScript
-*  **Cloud & Deployment**: GCP, AWS, Docker, Kubernetes, Chef
-*  **Security Skills**: Penetration Testing, Threat Modelling, Web Application Firewalls, Reverse Proxies
-*  **Security Tools**: Wireshark, Nmap, Burpsuite
+<div class="skills-grid">
+ <div class="skills-row">
+  <span class="skills-label">Languages</span>
+  <span class="pill">Python</span><span class="pill">Java</span><span class="pill">Golang</span><span class="pill">SQL</span><span class="pill">JavaScript</span>
+ </div>
+ <div class="skills-row">
+  <span class="skills-label">Cloud & Deployment</span>
+  <span class="pill">GCP</span><span class="pill">AWS</span><span class="pill">Docker</span><span class="pill">Kubernetes</span><span class="pill">Chef</span>
+ </div>
+ <div class="skills-row">
+  <span class="skills-label">Security</span>
+  <span class="pill">Penetration Testing</span><span class="pill">Threat Modelling</span><span class="pill">Web Application Firewalls</span><span class="pill">Reverse Proxies</span>
+ </div>
+ <div class="skills-row">
+  <span class="skills-label">Tools</span>
+  <span class="pill">Wireshark</span><span class="pill">Nmap</span><span class="pill">Burp Suite</span>
+ </div>
+</div>
 
 
 ## Education

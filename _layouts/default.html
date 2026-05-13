@@ -150,6 +150,13 @@ a:link, a:visited { color: #301800; }
 .highlight .vi { color: #aa0000 }
 .highlight .vm { color: #aa0000 }
 .highlight .il { color: #009999 }
+.cv-nav { display: flex; flex-wrap: wrap; gap: 0.5em; margin: 1.5em 0; }
+.cv-nav a { display: inline-block; border: 1px solid #64ffda; border-radius: 20px; color: #64ffda; padding: 0.25em 0.9em; font-size: 85%; }
+.cv-nav a:hover { background: rgba(100, 255, 218, 0.1); border: 1px solid #64ffda; }
+.skills-grid { margin: 0.5em 0 1.5em; }
+.skills-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4em; margin-bottom: 0.7em; }
+.skills-label { color: #8892b0; font-size: 80%; min-width: 10em; }
+.pill { display: inline-block; border: 1px solid #64ffda; border-radius: 20px; color: #64ffda; padding: 0.2em 0.75em; font-size: 82%; }
 #footer { margin: 3em auto 1.5em; width: 92.5%; max-width: 700px; border-top: 1px solid #1d3557; padding-top: 1em; font-size: 80%; color: #8892b0; text-align: center; }
 #footer p { margin: 0.3em 0; }
 #footer a { border-bottom: none; color: #8892b0; }
@@ -168,6 +175,10 @@ blockquote { border-left-color: #301800; }
 #footer { border-top-color: #D3D3D3; color: #777; }
 #footer a { color: #777; }
 #footer a:hover { color: #000080; }
+.pill { border-color: #000080; color: #000080; }
+.cv-nav a { border-color: #000080; color: #000080; }
+.cv-nav a:hover { background: rgba(0, 0, 128, 0.07); border-color: #000080; }
+.skills-label { color: #555; }
 }
  </style>
 {% include analytics.html %}
