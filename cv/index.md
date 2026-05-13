@@ -184,7 +184,7 @@ permalink: /about-me/
  <div class="exp-entry">
   <h3>BSides Den Haag 2026</h3>
   <div class="exp-meta">2026 &middot; Den Haag, Netherlands</div>
-  <p><em>From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</em> &mdash; Presented at the inaugural BSides Den Haag on practical detection engineering, reducing alert noise, and detection-as-code workflows.</p>
+  <p><em>From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</em> - Presented at the inaugural BSides Den Haag on practical detection engineering, reducing alert noise, and detection-as-code workflows.</p>
  </div>
 </div>
 
@@ -195,7 +195,7 @@ permalink: /about-me/
 
  <div class="project-entry">
   <div class="project-header">
-   <h3><a href="https://github.com/DataDog/stratus-attack-techniques">DataDog &mdash; Stratus Red Team</a></h3>
+   <h3><a href="https://github.com/DataDog/stratus-attack-techniques">DataDog - Stratus Red Team</a></h3>
    <div class="pills-container">
     <span class="pill">Golang</span><span class="pill">Dockerfile</span>
    </div>
@@ -211,7 +211,7 @@ permalink: /about-me/
     <span class="pill">Python</span><span class="pill">PyTorch</span><span class="pill">Google Colab</span>
    </div>
   </div>
-  <div class="exp-meta">MSc thesis project &mdash; Queen's University Belfast</div>
+  <div class="exp-meta">MSc thesis project - Queen's University Belfast</div>
   <p>Network intrusion detection classifier distinguishing malicious from normal traffic using Recurrent Neural Networks and Multilayer Perceptrons.</p>
  </div>
 
@@ -234,13 +234,13 @@ permalink: /about-me/
 <div class="experience-entries">
 
  <div class="exp-entry">
-  <h3>MSc Applied Cybersecurity &mdash; <a href="https://www.qub.ac.uk/">Queen's University Belfast</a></h3>
+  <h3>MSc Applied Cybersecurity - <a href="https://www.qub.ac.uk/">Queen's University Belfast</a></h3>
   <div class="exp-meta">2020 &middot; Belfast, UK</div>
   <p>Thesis: <a href="https://github.com/tmendonca28/DLNID">Machine Learning for Network Intrusion Detection</a></p>
  </div>
 
  <div class="exp-entry">
-  <h3>BSc Computer Science &mdash; <a href="https://www.uonbi.ac.ke/">University of Nairobi</a></h3>
+  <h3>BSc Computer Science - <a href="https://www.uonbi.ac.ke/">University of Nairobi</a></h3>
   <div class="exp-meta">2017 &middot; Nairobi, Kenya</div>
  </div>
 
