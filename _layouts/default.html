@@ -155,12 +155,14 @@ a:link, a:visited { color: #301800; }
 .highlight .il { color: #009999 }
 .cert-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.2em; margin: 1em 0 2em; }
 .cert-card { border: 1px solid #1d3557; border-radius: 6px; padding: 1.2em; display: flex; flex-direction: column; }
-.cert-card-header { display: flex; align-items: flex-start; gap: 0.8em; margin-bottom: 1em; }
+.cert-card-header { display: flex; align-items: flex-start; gap: 0.8em; margin-bottom: 1em; min-height: 6em; }
 .cert-badge { width: 48px; height: 48px; flex-shrink: 0; border-radius: 4px; background: #112240; }
 .cert-badge img { width: 48px; height: 48px; object-fit: contain; border-radius: 4px; }
 .cert-header-text { flex: 1; }
 .cert-verified { display: inline-block; border: 1px solid #64ffda; color: #64ffda; font-size: 68%; padding: 0.1em 0.4em; border-radius: 3px; letter-spacing: 0.08em; margin-bottom: 0.35em; }
 .cert-name { font-size: 90%; font-weight: bold; color: #ccd6f6; line-height: 1.3; }
+.cert-name a, .cert-name a:link, .cert-name a:visited { color: #ccd6f6; border-bottom: 1px dotted #64ffda; }
+.cert-name a:hover { color: #64ffda; border-bottom: 1px solid #64ffda; }
 .cert-terminal { background: #112240; border-radius: 4px; padding: 0.7em 0.9em; font-size: 78%; font-family: monospace; margin-bottom: 0.8em; flex: 1; }
 .cert-cmd { color: #8892b0; margin-bottom: 0.4em; }
 .cert-cmd::before { content: '$ '; color: #64ffda; }

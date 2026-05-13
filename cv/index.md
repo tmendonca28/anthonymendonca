@@ -17,7 +17,7 @@ permalink: /about-me/
 
 ## Summary
 
-Cybersecurity professional with a software engineering foundation, specialising in detection engineering, adversary emulation, and application security. At Booz Allen Hamilton, I build enterprise-scale threat detection capabilities, develop SOC use cases, and lead security transformation programs for global clients. **GPEN &middot; GSOC &middot; GWEB** certified.
+Cybersecurity professional with a software engineering foundation, specialising in detection engineering, adversary emulation, and application security. At Booz Allen Hamilton, I build enterprise-scale threat detection capabilities, develop SOC use cases, and lead security transformation programs for global clients.
 
 
 ## Certifications
@@ -29,17 +29,15 @@ Cybersecurity professional with a software engineering foundation, specialising 
    <div class="cert-badge"></div>
    <div class="cert-header-text">
     <div class="cert-verified">[VERIFIED]</div>
-    <div class="cert-name">GIAC Penetration Tester (GPEN)</div>
+    <div class="cert-name"><a href="https://www.credly.com/badges/1296a6f0-6618-4c37-bd3f-3895ed2946ea/public_url">GIAC Penetration Tester (GPEN)</a></div>
    </div>
   </div>
   <div class="cert-terminal">
-   <div class="cert-cmd">verify-cert --status</div>
    <div class="cert-status">Status: Active</div>
    <div class="cert-meta">Issued: Oct 2025</div>
    <div class="cert-meta">Provider: GIAC / SANS</div>
    <div class="cert-meta">Expires: Oct 2029</div>
   </div>
-  <div class="cert-footer"><a href="https://www.credly.com/badges/1296a6f0-6618-4c37-bd3f-3895ed2946ea/public_url" title="Verify GPEN credential">view-credential --verify ↗</a></div>
  </div>
 
  <div class="cert-card">
@@ -47,17 +45,15 @@ Cybersecurity professional with a software engineering foundation, specialising 
    <div class="cert-badge"></div>
    <div class="cert-header-text">
     <div class="cert-verified">[VERIFIED]</div>
-    <div class="cert-name">GIAC Security Operations Certified (GSOC)</div>
+    <div class="cert-name"><a href="https://www.credly.com/badges/35ecf419-7581-4622-85fe-969cd2010146">GIAC Security Operations Certified (GSOC)</a></div>
    </div>
   </div>
   <div class="cert-terminal">
-   <div class="cert-cmd">verify-cert --status</div>
    <div class="cert-status">Status: Active</div>
    <div class="cert-meta">Issued: Nov 2024</div>
    <div class="cert-meta">Provider: GIAC / SANS</div>
    <div class="cert-meta">Expires: Nov 2028</div>
   </div>
-  <div class="cert-footer"><a href="https://www.credly.com/badges/35ecf419-7581-4622-85fe-969cd2010146" title="Verify GSOC credential">view-credential --verify ↗</a></div>
  </div>
 
  <div class="cert-card">
@@ -65,17 +61,15 @@ Cybersecurity professional with a software engineering foundation, specialising 
    <div class="cert-badge"></div>
    <div class="cert-header-text">
     <div class="cert-verified">[VERIFIED]</div>
-    <div class="cert-name">GIAC Certified Web Application Defender (GWEB)</div>
+    <div class="cert-name"><a href="https://www.credly.com/badges/e79c9d8c-5596-4e10-a7a5-a4d0803dc497/">GIAC Certified Web Application Defender (GWEB)</a></div>
    </div>
   </div>
   <div class="cert-terminal">
-   <div class="cert-cmd">verify-cert --status</div>
    <div class="cert-status">Status: Active</div>
    <div class="cert-meta">Issued: Jun 2024</div>
    <div class="cert-meta">Provider: GIAC / SANS</div>
    <div class="cert-meta">Expires: Jun 2028</div>
   </div>
-  <div class="cert-footer"><a href="https://www.credly.com/badges/e79c9d8c-5596-4e10-a7a5-a4d0803dc497/" title="Verify GWEB credential">view-credential --verify ↗</a></div>
  </div>
 
  <div class="cert-card">
@@ -83,17 +77,15 @@ Cybersecurity professional with a software engineering foundation, specialising 
    <div class="cert-badge"></div>
    <div class="cert-header-text">
     <div class="cert-verified">[VERIFIED]</div>
-    <div class="cert-name">CompTIA Security+</div>
+    <div class="cert-name"><a href="https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile">CompTIA Security+</a></div>
    </div>
   </div>
   <div class="cert-terminal">
-   <div class="cert-cmd">verify-cert --status</div>
    <div class="cert-status">Status: Active</div>
    <div class="cert-meta">Issued: Mar 2021</div>
    <div class="cert-meta">Provider: CompTIA</div>
    <div class="cert-meta">Expires: Mar 2027</div>
   </div>
-  <div class="cert-footer"><a href="https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile" title="Verify Security+ credential">view-credential --verify ↗</a></div>
  </div>
 
  <div class="cert-card">
@@ -101,16 +93,14 @@ Cybersecurity professional with a software engineering foundation, specialising 
    <div class="cert-badge"></div>
    <div class="cert-header-text">
     <div class="cert-verified">[VERIFIED]</div>
-    <div class="cert-name">Certified DevSecOps Professional</div>
+    <div class="cert-name"><a href="https://www.credly.com/badges/164b83d7-b687-493c-9490-e9a4c31d08e6/public_url">Certified DevSecOps Professional</a></div>
    </div>
   </div>
   <div class="cert-terminal">
-   <div class="cert-cmd">verify-cert --status</div>
    <div class="cert-status">Status: Active</div>
    <div class="cert-meta">Provider: Practical DevSecOps</div>
    <div class="cert-meta">Expires: Does not expire</div>
   </div>
-  <div class="cert-footer"><a href="https://www.credly.com/badges/164b83d7-b687-493c-9490-e9a4c31d08e6/public_url" title="Verify DevSecOps credential">view-credential --verify ↗</a></div>
  </div>
 
  <div class="cert-card">
@@ -118,16 +108,14 @@ Cybersecurity professional with a software engineering foundation, specialising 
    <div class="cert-badge"></div>
    <div class="cert-header-text">
     <div class="cert-verified">[VERIFIED]</div>
-    <div class="cert-name">INSEAD Mastering Creative Thinking</div>
+    <div class="cert-name"><a href="https://certificate.insead.edu/9f7e54d0-8629-43b4-a57e-7c336167d0d3#acc.I7PYnGpM">INSEAD Mastering Creative Thinking</a></div>
    </div>
   </div>
   <div class="cert-terminal">
-   <div class="cert-cmd">verify-cert --status</div>
    <div class="cert-status">Status: Active</div>
    <div class="cert-meta">Provider: INSEAD</div>
    <div class="cert-meta">Expires: Does not expire</div>
   </div>
-  <div class="cert-footer"><a href="https://certificate.insead.edu/9f7e54d0-8629-43b4-a57e-7c336167d0d3#acc.I7PYnGpM" title="Verify INSEAD credential">view-credential --verify ↗</a></div>
  </div>
 
 </div>
