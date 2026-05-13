@@ -31,11 +31,32 @@ permalink: /
 </div>
 
 
-## Videos i find inspiring
+## Videos I Find Inspiring
 
-I hope you'll take away some sort of inspiration from the following videos:
+<div class="experience-entries">
 
-* [How To Live An Asymmetric Life](https://youtube.com/watch?v=dZxbVGhpEkI), a last lecture series from Graham Weaver at Stanford GSB that talks about doing hard things and playing big in life.
-* [How Great Leaders Inspire Action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), a talk on inspirational leadership.
-* [Why We Do What We Do](https://www.ted.com/talks/tony_robbins_why_we_do_what_we_do), a talk on the reasoning behind your actions.
-* [Why The Secret To Success Is Setting The Right Goals](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals) talks about the importance of setting well thought out goals and objectives.
+ <div class="exp-entry">
+  <h3><a href="https://youtube.com/watch?v=dZxbVGhpEkI">How To Live An Asymmetric Life</a></h3>
+  <div class="exp-meta">Graham Weaver &middot; Stanford GSB</div>
+  <p>A last lecture on doing hard things, playing big, and living a life worth living.</p>
+ </div>
+
+ <div class="exp-entry">
+  <h3><a href="https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en">How Great Leaders Inspire Action</a></h3>
+  <div class="exp-meta">Simon Sinek &middot; TED</div>
+  <p>Why the most inspiring leaders and organisations think, act, and communicate from the inside out.</p>
+ </div>
+
+ <div class="exp-entry">
+  <h3><a href="https://www.ted.com/talks/tony_robbins_why_we_do_what_we_do">Why We Do What We Do</a></h3>
+  <div class="exp-meta">Tony Robbins &middot; TED</div>
+  <p>An exploration of the invisible forces that drive human behaviour and decision-making.</p>
+ </div>
+
+ <div class="exp-entry">
+  <h3><a href="https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals">Why The Secret To Success Is Setting The Right Goals</a></h3>
+  <div class="exp-meta">John Doerr &middot; TED</div>
+  <p>The case for OKRs — why what you measure matters and how clear goals unlock extraordinary results.</p>
+ </div>
+
+</div>
