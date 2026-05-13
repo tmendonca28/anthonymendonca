@@ -17,7 +17,9 @@ permalink: /about-me/
 
 ## Summary
 
-Cybersecurity professional with a software engineering foundation, specialising in detection engineering, adversary emulation, and application security. At Booz Allen Hamilton, I build enterprise-scale threat detection capabilities, develop SOC use cases, and lead security transformation programs for global clients.
+<div class="cv-prose">
+<p>Cybersecurity professional with a software engineering foundation, specialising in detection engineering, adversary emulation, and application security. At Booz Allen Hamilton, I build enterprise-scale threat detection capabilities, develop SOC use cases, and lead security transformation programs for global clients.</p>
+</div>
 
 
 ## Certifications
@@ -151,25 +153,39 @@ Cybersecurity professional with a software engineering foundation, specialising 
 
 <p class="no-print">Full detail on <a href="https://www.linkedin.com/in/anthony-mendonca/">LinkedIn ↗</a></p>
 
-### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Associate (Manager), Cyber
-#### Jan 2026 &ndash; present &middot; London, UK
-Leading detection engineering and security transformation programs for global enterprise clients.
+<div class="experience-entries">
 
-### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant, Cyber
-#### Jan 2023 &ndash; Dec 2025 &middot; London, UK
-Built 25+ KQL threat hunting queries, 5 IR playbooks, and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across financial services, retail, and logistics sectors.
+ <div class="exp-entry">
+  <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate (Manager), Cyber</h3>
+  <div class="exp-meta">Jan 2026 &ndash; present &middot; London, UK</div>
+  <p>Leading detection engineering and security transformation programs for global enterprise clients.</p>
+ </div>
 
-### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant
-#### Sep 2021 &ndash; Dec 2022 &middot; London, UK
-Network security strategy, SASE and Zero Trust adoption roadmaps, and MITRE ATT&CK-based threat modelling for global enterprise clients.
+ <div class="exp-entry">
+  <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Senior Consultant, Cyber</h3>
+  <div class="exp-meta">Jan 2023 &ndash; Dec 2025 &middot; London, UK</div>
+  <p>Built 25+ KQL threat hunting queries, 5 IR playbooks, and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across financial services, retail, and logistics sectors.</p>
+ </div>
 
-### [BT Group](https://www.bt.com/) &ndash; Cyber Security Intern
-#### Sep 2019 &ndash; Jun 2020 &middot; London, UK
-Built a neural network for malicious domain detection (+70% proactive detection rate); KQL threat intelligence queries on Microsoft ATP; Splunk dashboards for device misconfiguration root cause analysis.
+ <div class="exp-entry">
+  <h3><a href="https://deloitte.com/">Deloitte</a> &ndash; Cyber Risk Consultant</h3>
+  <div class="exp-meta">Sep 2021 &ndash; Dec 2022 &middot; London, UK</div>
+  <p>Network security strategy, SASE and Zero Trust adoption roadmaps, and MITRE ATT&CK-based threat modelling for global enterprise clients.</p>
+ </div>
 
-### [IBM Research Africa](https://research.ibm.com/labs/africa/) &ndash; Software Engineer Intern
-#### Jun 2018 &ndash; Aug 2018 &middot; Nairobi, Kenya
-Designed and developed a cloud microservices diagnostic tool, later extended by research teams across agriculture, financial services, and healthcare.
+ <div class="exp-entry">
+  <h3><a href="https://www.bt.com/">BT Group</a> &ndash; Cyber Security Intern</h3>
+  <div class="exp-meta">Sep 2019 &ndash; Jun 2020 &middot; London, UK</div>
+  <p>Built a neural network for malicious domain detection (+70% proactive detection rate); KQL threat intelligence queries on Microsoft ATP; Splunk dashboards for device misconfiguration root cause analysis.</p>
+ </div>
+
+ <div class="exp-entry">
+  <h3><a href="https://research.ibm.com/labs/africa/">IBM Research Africa</a> &ndash; Software Engineer Intern</h3>
+  <div class="exp-meta">Jun 2018 &ndash; Aug 2018 &middot; Nairobi, Kenya</div>
+  <p>Designed and developed a cloud microservices diagnostic tool, later extended by research teams across agriculture, financial services, and healthcare.</p>
+ </div>
+
+</div>
 
 
 ## Education

@@ -7,9 +7,10 @@ permalink: /
 <img class="right" src="/images/profile-pic.jpg" alt="Anthony in Nairobi" title="Anthony in sunny Nairobi" />
 
 
-# Anthony Mendonca
+<h1 class="hero-name">Anthony Mendonca</h1>
+<p class="hero-subtitle">Cybersecurity Professional</p>
 
-Hey! I'm currently an Associate (Manager) in [Booz Allen Hamilton's](https://www.boozallen.com/) Commercial Cyber team. Previously, I worked at [Deloitte UK](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [resume/CV](/cv/)
+Hey! I'm currently an Associate (Manager) in [Booz Allen Hamilton's](https://www.boozallen.com/) Commercial Cyber team. Previously, I worked at [Deloitte UK](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [About Me](/about-me/) page.
 
 My interests lie in Blue Teaming, Application Security, Offensive Security and building scalable solutions securely.
 
