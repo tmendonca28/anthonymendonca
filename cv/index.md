@@ -81,21 +81,25 @@ response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then fur
 ## Technical Skills
 
 <div class="skills-grid">
- <div class="skills-row">
-  <span class="skills-label">Languages</span>
-  <span class="pill">Python</span><span class="pill">Java</span><span class="pill">Golang</span><span class="pill">SQL</span><span class="pill">JavaScript</span>
+ <span class="skills-label">Languages</span>
+ <div class="pills-container">
+  <span class="pill">Python</span><span class="pill">C#</span><span class="pill">Golang</span><span class="pill">SQL</span><span class="pill">KQL</span>
  </div>
- <div class="skills-row">
-  <span class="skills-label">Cloud & Deployment</span>
-  <span class="pill">GCP</span><span class="pill">AWS</span><span class="pill">Docker</span><span class="pill">Kubernetes</span><span class="pill">Chef</span>
+ <span class="skills-label">Security Engineering</span>
+ <div class="pills-container">
+  <span class="pill">Adversary Emulation</span><span class="pill">EDR Evasion</span><span class="pill">Detection Engineering</span>
  </div>
- <div class="skills-row">
-  <span class="skills-label">Security</span>
-  <span class="pill">Penetration Testing</span><span class="pill">Threat Modelling</span><span class="pill">Web Application Firewalls</span><span class="pill">Reverse Proxies</span>
+ <span class="skills-label">Detection & Response</span>
+ <div class="pills-container">
+  <span class="pill">Microsoft Sentinel</span><span class="pill">Microsoft Defender</span><span class="pill">SIEM Tuning</span><span class="pill">MITRE ATT&CK</span>
  </div>
- <div class="skills-row">
-  <span class="skills-label">Tools</span>
-  <span class="pill">Wireshark</span><span class="pill">Nmap</span><span class="pill">Burp Suite</span>
+ <span class="skills-label">Application Security</span>
+ <div class="pills-container">
+  <span class="pill">OWASP Top 10</span><span class="pill">Threat Modelling</span><span class="pill">SAST</span><span class="pill">DAST</span><span class="pill">DevSecOps</span><span class="pill">AuthN & AuthZ Security</span>
+ </div>
+ <span class="skills-label">Security Tools</span>
+ <div class="pills-container">
+  <span class="pill">Mythic C2</span><span class="pill">BloodHound</span><span class="pill">GitHub Actions</span><span class="pill">Seatbelt</span><span class="pill">Docker</span>
  </div>
 </div>
 

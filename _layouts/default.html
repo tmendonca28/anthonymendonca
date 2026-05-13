@@ -79,6 +79,7 @@ body { font-size: 13px; }
 #menu .site-title { float: none; }
 #menu ul.links { float: none; margin: -0.5em 0 0 -0.8em; }
 h1 { margin-top: 0.5em 0; }
+.skills-grid { grid-template-columns: 1fr; }
 }
 @media print {
 .no-print { display: none; }
@@ -153,9 +154,9 @@ a:link, a:visited { color: #301800; }
 .cv-nav { display: flex; flex-wrap: wrap; gap: 0.5em; margin: 1.5em 0; }
 .cv-nav a { display: inline-block; border: 1px solid #64ffda; border-radius: 20px; color: #64ffda; padding: 0.25em 0.9em; font-size: 85%; }
 .cv-nav a:hover { background: rgba(100, 255, 218, 0.1); border: 1px solid #64ffda; }
-.skills-grid { margin: 0.5em 0 1.5em; }
-.skills-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4em; margin-bottom: 0.7em; }
-.skills-label { color: #8892b0; font-size: 80%; min-width: 10em; }
+.skills-grid { display: grid; grid-template-columns: 13em 1fr; row-gap: 0.8em; margin: 0.5em 0 1.5em; align-items: start; }
+.skills-label { color: #8892b0; font-size: 80%; padding-top: 0.3em; }
+.pills-container { display: flex; flex-wrap: wrap; gap: 0.4em; }
 .pill { display: inline-block; border: 1px solid #64ffda; border-radius: 20px; color: #64ffda; padding: 0.2em 0.75em; font-size: 82%; }
 #footer { margin: 3em auto 1.5em; width: 92.5%; max-width: 700px; border-top: 1px solid #1d3557; padding-top: 1em; font-size: 80%; color: #8892b0; text-align: center; }
 #footer p { margin: 0.3em 0; }
