@@ -10,6 +10,8 @@ permalink: /about-me/
  <a href="#certifications">Certifications</a>
  <a href="#technical-skills">Skills</a>
  <a href="#experience">Experience</a>
+ <a href="#speaking">Speaking</a>
+ <a href="#projects">Projects</a>
  <a href="#education">Education</a>
  <a href="/cv/AnthonyMendonca_Resume_December2025_Website.pdf" title="PDF version of my resume / CV">PDF ↓</a>
 </nav>
@@ -156,33 +158,72 @@ permalink: /about-me/
 <div class="experience-entries">
 
  <div class="exp-entry">
-  <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate (Manager), Cyber</h3>
-  <div class="exp-meta">Jan 2026 &ndash; present &middot; London, UK</div>
+  <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate, Cyber</h3>
+  <div class="exp-meta">Dec 2025 &ndash; present &middot; London, UK</div>
   <p>Leading detection engineering and security transformation programs for global enterprise clients.</p>
  </div>
 
  <div class="exp-entry">
   <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Senior Consultant, Cyber</h3>
   <div class="exp-meta">Jan 2023 &ndash; Dec 2025 &middot; London, UK</div>
-  <p>Built 25+ KQL threat hunting queries, 5 IR playbooks, and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across financial services, retail, and logistics sectors.</p>
+  <p>Built a modular adversary simulation framework in C# and Python (Mythic Apollo) with custom EDR evasion logic; developed 30+ KQL detection rules in Microsoft Sentinel; authored 5 IR playbooks and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across logistics, retail, and financial services sectors.</p>
  </div>
 
  <div class="exp-entry">
   <h3><a href="https://deloitte.com/">Deloitte</a> &ndash; Cyber Risk Consultant</h3>
-  <div class="exp-meta">Sep 2021 &ndash; Dec 2022 &middot; London, UK</div>
-  <p>Network security strategy, SASE and Zero Trust adoption roadmaps, and MITRE ATT&CK-based threat modelling for global enterprise clients.</p>
+  <div class="exp-meta">Sept 2021 &ndash; Jan 2023 &middot; London, UK</div>
+  <p>Designed secure network architectures with Zero Trust strategies; automated server hardening using PowerShell and Chef (CIS benchmarks); MITRE ATT&CK-based TTP heatmaps to prioritise cybersecurity control investments.</p>
  </div>
 
+</div>
+
+
+## Speaking
+
+<div class="experience-entries">
  <div class="exp-entry">
-  <h3><a href="https://www.bt.com/">BT Group</a> &ndash; Cyber Security Intern</h3>
-  <div class="exp-meta">Sep 2019 &ndash; Jun 2020 &middot; London, UK</div>
-  <p>Built a neural network for malicious domain detection (+70% proactive detection rate); KQL threat intelligence queries on Microsoft ATP; Splunk dashboards for device misconfiguration root cause analysis.</p>
+  <h3>BSides Den Haag 2026</h3>
+  <div class="exp-meta">2026 &middot; Den Haag, Netherlands</div>
+  <p><em>From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</em> &mdash; Presented at the inaugural BSides Den Haag on practical detection engineering, reducing alert noise, and detection-as-code workflows.</p>
+ </div>
+</div>
+
+
+## Projects
+
+<div class="project-entries">
+
+ <div class="project-entry">
+  <div class="project-header">
+   <h3><a href="https://github.com/DataDog/stratus-attack-techniques">DataDog &mdash; Stratus Red Team</a></h3>
+   <div class="pills-container">
+    <span class="pill">Golang</span><span class="pill">Dockerfile</span>
+   </div>
+  </div>
+  <div class="exp-meta">Open-source contribution</div>
+  <p>Developed a MITRE ATT&CK coverage matrix for the project, featured in DataDog's March 2025 Security Digest. Also improving the Makefile for better maintainability.</p>
  </div>
 
- <div class="exp-entry">
-  <h3><a href="https://research.ibm.com/labs/africa/">IBM Research Africa</a> &ndash; Software Engineer Intern</h3>
-  <div class="exp-meta">Jun 2018 &ndash; Aug 2018 &middot; Nairobi, Kenya</div>
-  <p>Designed and developed a cloud microservices diagnostic tool, later extended by research teams across agriculture, financial services, and healthcare.</p>
+ <div class="project-entry">
+  <div class="project-header">
+   <h3><a href="https://github.com/tmendonca28/DLNID">Deep Learning for Network Intrusion Detection</a></h3>
+   <div class="pills-container">
+    <span class="pill">Python</span><span class="pill">PyTorch</span><span class="pill">Google Colab</span>
+   </div>
+  </div>
+  <div class="exp-meta">MSc thesis project &mdash; Queen's University Belfast</div>
+  <p>Network intrusion detection classifier distinguishing malicious from normal traffic using Recurrent Neural Networks and Multilayer Perceptrons.</p>
+ </div>
+
+ <div class="project-entry">
+  <div class="project-header">
+   <h3><a href="https://github.com/tmendonca28">DeepPhishing</a></h3>
+   <div class="pills-container">
+    <span class="pill">Python</span><span class="pill">Keras</span><span class="pill">Google Colab</span>
+   </div>
+  </div>
+  <div class="exp-meta">Research project</div>
+  <p>LSTM model to detect and classify malicious domains using PhishTank and Cisco Umbrella 1 million datasets.</p>
  </div>
 
 </div>
