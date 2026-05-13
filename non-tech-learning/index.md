@@ -8,20 +8,44 @@ permalink: /non-tech-learning/
 
 As I consider myself a life-long learner, the articles below are based on books, videos or experience I find interesting in developing myself to become 1% better every day (see also my [**technical writings**](/tech-learning/)).
 
-<h2 id="y2025" style="text-decoration: underline;">2025</h2>
+<div class="experience-entries">
 
-* [Peak Performance](/non-tech-learning/peak-performance/) is a summary of the book by Brad Stulberg & Steve Magness.  
+ <div class="year-label">2025</div>
 
-<h2 id="y2024" style="text-decoration: underline;">2024</h2>
+ <div class="exp-entry">
+  <h3><a href="/non-tech-learning/peak-performance/">Peak Performance</a></h3>
+  <div class="exp-meta">2025</div>
+  <p>A summary of the book by Brad Stulberg &amp; Steve Magness.</p>
+ </div>
 
-* [My Experience at SANS London July 2024](/non-tech-learning/sans-july-2024/) is a recollection of my experience at the event where I assisted in facilitation via the SANS Work Study Programme for SEC450.
+ <div class="year-label">2024</div>
 
-<h2 id="y2023" style="text-decoration: underline;">2023</h2>
+ <div class="exp-entry">
+  <h3><a href="/non-tech-learning/sans-july-2024/">My Experience at SANS London July 2024</a></h3>
+  <div class="exp-meta">July 2024</div>
+  <p>A recollection of my experience at the event where I assisted in facilitation via the SANS Work Study Programme for SEC450.</p>
+ </div>
 
-* [Beyond Binary](/non-tech-learning/beyond-binary/) is a realization that we (humans) are as important in cybersecurity as the systems we yearn to protect.  
+ <div class="year-label">2023</div>
 
-* [Eat That Frog](/non-tech-learning/eat-that-frog/) is a summary of the book by Brian Tracy and the key points I took away.  
+ <div class="exp-entry">
+  <h3><a href="/non-tech-learning/beyond-binary/">Beyond Binary</a></h3>
+  <div class="exp-meta">2023</div>
+  <p>A realisation that we (humans) are as important in cybersecurity as the systems we yearn to protect.</p>
+ </div>
 
-<h2 id="y2022" style="text-decoration: underline;">2022</h2>
+ <div class="exp-entry">
+  <h3><a href="/non-tech-learning/eat-that-frog/">Eat That Frog</a></h3>
+  <div class="exp-meta">2023</div>
+  <p>A summary of the book by Brian Tracy and the key points I took away.</p>
+ </div>
 
-* [Effortless](/non-tech-learning/effortless-summary/) is a summary of the book by Greg McKeown and its key points.  
+ <div class="year-label">2022</div>
+
+ <div class="exp-entry">
+  <h3><a href="/non-tech-learning/effortless-summary/">Effortless</a></h3>
+  <div class="exp-meta">2022</div>
+  <p>A summary of the book by Greg McKeown and its key points.</p>
+ </div>
+
+</div>
