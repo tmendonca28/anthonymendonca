@@ -10,11 +10,13 @@ permalink: /
 <h1 class="hero-name">Anthony Mendonca</h1>
 <p class="hero-subtitle">Cybersecurity Professional</p>
 
-Hey! I'm currently an Associate (Manager) in [Booz Allen Hamilton's](https://www.boozallen.com/) Commercial Cyber team. Previously, I worked at [Deloitte UK](https://www2.deloitte.com/uk) as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both [BT](https://www.bt.com/) and [IBM Research Africa](https://research.ibm.com/labs/africa/). You can learn more about all this from my [About Me](/about-me/) page.
+<div class="cv-prose">
+<p>Hey! I'm currently an Associate (Manager) in <a href="https://www.boozallen.com/">Booz Allen Hamilton's</a> Commercial Cyber team. Previously, I worked at <a href="https://www2.deloitte.com/uk">Deloitte UK</a> as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both <a href="https://www.bt.com/">BT</a> and <a href="https://research.ibm.com/labs/africa/">IBM Research Africa</a>. You can learn more about all this from my <a href="/about-me/">About Me</a> page.</p>
 
-My interests lie in Blue Teaming, Application Security, Offensive Security and building scalable solutions securely.
+<p>My interests lie in Blue Teaming, Application Security, Offensive Security and building scalable solutions securely.</p>
 
-I really enjoy learning about being the best version of myself and write a few articles on interesting reads & experiences [here](/non-tech-learning/). I also keep a record of learning technical concepts [here](/tech-learning/).
+<p>I really enjoy learning about being the best version of myself and write a few articles on interesting reads &amp; experiences in my <a href="/non-tech-learning/">non-technical learning</a> journal. I also keep a record of learning technical concepts in my <a href="/tech-learning/">technical learning</a> journal.</p>
+</div>
 
 
 ## Videos i find inspiring
