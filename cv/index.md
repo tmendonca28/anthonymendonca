@@ -7,75 +7,130 @@ permalink: /cv/
 
 <nav class="cv-nav no-print">
  <a href="#summary">Summary</a>
+ <a href="#certifications">Certifications</a>
+ <a href="#skills">Skills</a>
  <a href="#experience">Experience</a>
- <a href="#skills-what-i-do">Skills</a>
  <a href="#education">Education</a>
- <a href="#about-me">About me</a>
  <a href="/cv/AnthonyMendonca_Resume_December2025_Website.pdf" title="PDF version of my resume / CV">PDF ↓</a>
 </nav>
 
 
 ## Summary
 
-I’m a technically-minded cybersecurity consultant with a software engineering background. I have a strong interest in blue teaming and application security as well as developing security solutions that would better secure a given product or organisation.
+Cybersecurity professional with a software engineering foundation, specialising in detection engineering, adversary emulation, and application security. At Booz Allen Hamilton, I build enterprise-scale threat detection capabilities, develop SOC use cases, and lead security transformation programs for global clients. **GPEN &middot; GSOC &middot; GWEB** certified.
 
-I have an extremely strong work ethic, quickly adapt my ways of work to suit the problem at hand and analyse problems thoroughly (not to the extent of analysis paralysis) in order to develop the optimal solution.
 
-I live in London, but I was born and raised in Nairobi, Kenya. I've also spent a few years in Belfast where I did my MSc. in Applied Cybersecurity at Queen's University Belfast.
+## Certifications
 
-## Experience
+<div class="cert-grid">
 
-### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Associate, Cyber
-#### January 2026 to present
+ <div class="cert-card">
+  <div class="cert-card-header">
+   <div class="cert-badge"></div>
+   <div class="cert-header-text">
+    <div class="cert-verified">[VERIFIED]</div>
+    <div class="cert-name">GIAC Penetration Tester (GPEN)</div>
+   </div>
+  </div>
+  <div class="cert-terminal">
+   <div class="cert-cmd">verify-cert --status</div>
+   <div class="cert-status">Status: Active</div>
+   <div class="cert-meta">Issued: Oct 2025</div>
+   <div class="cert-meta">Provider: GIAC / SANS</div>
+   <div class="cert-meta">Expires: Oct 2029</div>
+  </div>
+  <div class="cert-footer"><a href="https://www.credly.com/badges/1296a6f0-6618-4c37-bd3f-3895ed2946ea/public_url" title="Verify GPEN credential">view-credential --verify ↗</a></div>
+ </div>
 
-### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant, Cyber
-#### January 2023 to December 2025
+ <div class="cert-card">
+  <div class="cert-card-header">
+   <div class="cert-badge"></div>
+   <div class="cert-header-text">
+    <div class="cert-verified">[VERIFIED]</div>
+    <div class="cert-name">GIAC Security Operations Certified (GSOC)</div>
+   </div>
+  </div>
+  <div class="cert-terminal">
+   <div class="cert-cmd">verify-cert --status</div>
+   <div class="cert-status">Status: Active</div>
+   <div class="cert-meta">Issued: Nov 2024</div>
+   <div class="cert-meta">Provider: GIAC / SANS</div>
+   <div class="cert-meta">Expires: Nov 2028</div>
+  </div>
+  <div class="cert-footer"><a href="https://www.credly.com/badges/35ecf419-7581-4622-85fe-969cd2010146" title="Verify GSOC credential">view-credential --verify ↗</a></div>
+ </div>
 
-*  Post-ransomware Security Transformation for a global retailer: Enabled the client to initiate a global ransomware resilience program impacting 5+ regions and over 200K endpoints by defining a project charter definition workflow, establishing a global architecture design board, and formalizing cross-regional security governance between the regions, where none existed.
-*  Cyber Maturity Assessment for global trip services provider: Accomplished a comprehensive baseline of security and fraud team maturity across people, processes, and technology. Delivered 3 tailored reports by designing and executing a custom CMMI-based maturity framework, facilitating targeted stakeholder workshops, and co-authoring a threat landscape, gap analysis, and actionable recommendations report.
-*  Cyber Fusion Centre design for global shipping and transportation company: Improved security operations efficiency by 60% by redesigning roles and responsibilities, aligning with CISO strategy, and addressing existing structural gaps. Developed 5 Incident Response playbooks to be used in scenarios ranging from ransomware and phishing to insider threat. Developed 25+ threat hunting queries in KQL for the proactive discovery of threats across their environment with a focus on Initial Access, Execution and Data Exfiltration.
-*  Threat detection uplift for European online retail and fashion client: Enhanced threat detection through the development of 13 targeted SOC use cases such as ransomware, cryptomining, and data exfiltration by assessing existing security tooling and using MITRE ATT&CK heatmaps.
-*  Global top 5 FMCG client: As part of it’s security transformation journey, championed the conceptualization and
-establishment of a robust security metrics program aligned with NIST CSF, driving data-driven reporting and
-analysis. Developed a balanced security scorecard that allowed for better decision-making and spend of it’s cyber
-budget.
-*  European online retail and fashion client: Developed detailed threat intelligence and analysis using the MITRE ATT&CK framework and open-source threat intelligence to identify security information and event management (SIEM) use cases for both development and enhancement.
-*  Information security effectiveness program development for global electrical engineering and electronics client: Elevated security posture by 25% through the implementation of strategic security metrics and a robust governance strategy.
+ <div class="cert-card">
+  <div class="cert-card-header">
+   <div class="cert-badge"></div>
+   <div class="cert-header-text">
+    <div class="cert-verified">[VERIFIED]</div>
+    <div class="cert-name">GIAC Certified Web Application Defender (GWEB)</div>
+   </div>
+  </div>
+  <div class="cert-terminal">
+   <div class="cert-cmd">verify-cert --status</div>
+   <div class="cert-status">Status: Active</div>
+   <div class="cert-meta">Issued: Jun 2024</div>
+   <div class="cert-meta">Provider: GIAC / SANS</div>
+   <div class="cert-meta">Expires: Jun 2028</div>
+  </div>
+  <div class="cert-footer"><a href="https://www.credly.com/badges/e79c9d8c-5596-4e10-a7a5-a4d0803dc497/" title="Verify GWEB credential">view-credential --verify ↗</a></div>
+ </div>
 
-## Experience
+ <div class="cert-card">
+  <div class="cert-card-header">
+   <div class="cert-badge"></div>
+   <div class="cert-header-text">
+    <div class="cert-verified">[VERIFIED]</div>
+    <div class="cert-name">CompTIA Security+</div>
+   </div>
+  </div>
+  <div class="cert-terminal">
+   <div class="cert-cmd">verify-cert --status</div>
+   <div class="cert-status">Status: Active</div>
+   <div class="cert-meta">Issued: Mar 2021</div>
+   <div class="cert-meta">Provider: CompTIA</div>
+   <div class="cert-meta">Expires: Mar 2027</div>
+  </div>
+  <div class="cert-footer"><a href="https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile" title="Verify Security+ credential">view-credential --verify ↗</a></div>
+ </div>
 
-### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant
-#### September 2021 to December 2022
+ <div class="cert-card">
+  <div class="cert-card-header">
+   <div class="cert-badge"></div>
+   <div class="cert-header-text">
+    <div class="cert-verified">[VERIFIED]</div>
+    <div class="cert-name">Certified DevSecOps Professional</div>
+   </div>
+  </div>
+  <div class="cert-terminal">
+   <div class="cert-cmd">verify-cert --status</div>
+   <div class="cert-status">Status: Active</div>
+   <div class="cert-meta">Provider: Practical DevSecOps</div>
+   <div class="cert-meta">Expires: Does not expire</div>
+  </div>
+  <div class="cert-footer"><a href="https://www.credly.com/badges/164b83d7-b687-493c-9490-e9a4c31d08e6/public_url" title="Verify DevSecOps credential">view-credential --verify ↗</a></div>
+ </div>
 
-*  Developing a secure network design for a Swiss luxury watch maker. This involves implementing network security
-best practices, conducting threat modeling using the MITRE ATT&CK framework and ultimately building out a 3-year
-network security strategy.
-*  Developed technical implementation guidance with relation to ransomware server hardening for a global consulting
-services client. Done using PowerShell scripts and Chef recipes.
-*  Developed a next generation secure network strategy implementation roadmap that would underpin the global
-network security transformation for a multinational consulting services client. This included adoption strategies for
-Secure Access Service Edge and Zero Trust.
-*  Developed low-level system implementation guidance to improve the current security posture for a national
-scientific research client. This was a post-vulnerability assessment activity and improved the organization’s security
-posture by 75%.
+ <div class="cert-card">
+  <div class="cert-card-header">
+   <div class="cert-badge"></div>
+   <div class="cert-header-text">
+    <div class="cert-verified">[VERIFIED]</div>
+    <div class="cert-name">INSEAD Mastering Creative Thinking</div>
+   </div>
+  </div>
+  <div class="cert-terminal">
+   <div class="cert-cmd">verify-cert --status</div>
+   <div class="cert-status">Status: Active</div>
+   <div class="cert-meta">Provider: INSEAD</div>
+   <div class="cert-meta">Expires: Does not expire</div>
+  </div>
+  <div class="cert-footer"><a href="https://certificate.insead.edu/9f7e54d0-8629-43b4-a57e-7c336167d0d3#acc.I7PYnGpM" title="Verify INSEAD credential">view-credential --verify ↗</a></div>
+ </div>
 
-### [BT Group](https://www.bt.com/) &ndash; Cyber Security Intern
-#### September 2019 to June 2020
-
-*  Developed a neural network model that increases the proactive detection of malicious domains by 70%.
-*  Developed Splunk queries and dashboards to determine root cause analysis of device misconfigurations leading to
-75% increase in turnaround time.
-* Built automation tools related to detecting secrets exposed on GitHub and DNS hygiene increasing BT’s security
-posture by 80%.
-* Developed threat intelligence queries on Microsoft ATP platform using KQL to detect Privilege Escalation.
-
-### [IBM Research](https://research.ibm.com/) &ndash; Software Engineer Intern
-#### June 2018 to August 2018
-
-*  Designed and developed features for a diagnosis and testing tool for cloud-based microservices increasing API
-response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then further extended by other research teams in agriculture, financial services and healthcare to reduce latency.
-*  Implemented unit tests using Java (Spring Boot) with JUnit and Mockito increasing test coverage.
-*  Implemented integration and load tests in Python using Locust to gauge and improve API responsiveness.
+</div>
 
 
 ## Technical Skills
@@ -104,17 +159,34 @@ response times by 60%. This [work](https://prezi.com/jr048wvfkn5t/) was then fur
 </div>
 
 
+## Experience
+
+<p class="no-print">Full detail on <a href="https://www.linkedin.com/in/anthony-mendonca/">LinkedIn ↗</a></p>
+
+### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Associate (Manager), Cyber
+#### Jan 2026 &ndash; present &middot; London, UK
+Leading detection engineering and security transformation programs for global enterprise clients.
+
+### [Booz Allen Hamilton](https://www.boozallen.com/) &ndash; Senior Consultant, Cyber
+#### Jan 2023 &ndash; Dec 2025 &middot; London, UK
+Built 25+ KQL threat hunting queries, 5 IR playbooks, and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across financial services, retail, and logistics sectors.
+
+### [Deloitte](https://deloitte.com/) &ndash; Cyber Risk Consultant
+#### Sep 2021 &ndash; Dec 2022 &middot; London, UK
+Network security strategy, SASE and Zero Trust adoption roadmaps, and MITRE ATT&CK-based threat modelling for global enterprise clients.
+
+### [BT Group](https://www.bt.com/) &ndash; Cyber Security Intern
+#### Sep 2019 &ndash; Jun 2020 &middot; London, UK
+Built a neural network for malicious domain detection (+70% proactive detection rate); KQL threat intelligence queries on Microsoft ATP; Splunk dashboards for device misconfiguration root cause analysis.
+
+### [IBM Research Africa](https://research.ibm.com/labs/africa/) &ndash; Software Engineer Intern
+#### Jun 2018 &ndash; Aug 2018 &middot; Nairobi, Kenya
+Designed and developed a cloud microservices diagnostic tool, later extended by research teams across agriculture, financial services, and healthcare.
+
+
 ## Education
 
-I have a BSc. Computer Science from the University of Nairobi which I completed in September 2017. I later on pursued my MSc. in Applied Cybersecurity from Queen's University Belfast which I graduated in June 2020. My Master's thesis was based on Machine Learning for Network Intrusion Detection which can be found [here](https://github.com/tmendonca28/DLNID).
+**MSc Applied Cybersecurity** &mdash; Queen's University Belfast, 2020  
+Thesis: [Machine Learning for Network Intrusion Detection](https://github.com/tmendonca28/DLNID)
 
-
-## Certifications
-
-*  **[GIAC Penetration Tester (GPEN)](https://www.credly.com/badges/1296a6f0-6618-4c37-bd3f-3895ed2946ea/public_url)**: Oct 2025 - Oct 2029  
-*  **[GIAC Security Operations Certified (GSOC)](https://www.credly.com/badges/35ecf419-7581-4622-85fe-969cd2010146)**: Nov 2024 - Nov 2028  
-*  **[GIAC Certified Web Application Defender (GWEB)](https://www.credly.com/badges/e79c9d8c-5596-4e10-a7a5-a4d0803dc497/)**: June 2024 - June 2028  
-*  **[INSEAD Mastering Creative Thinking](https://certificate.insead.edu/9f7e54d0-8629-43b4-a57e-7c336167d0d3#acc.I7PYnGpM)**: Does not expire 
-*  **[COMPTIA Security+](https://www.youracclaim.com/badges/9d024e51-beb8-4a1a-9e5f-ce07afe84625?source=linked_in_profile)**: March 2021 - March 2027
-*  **[GCP Associate Cloud Engineer](https://www.credential.net/5a883d38-c5d2-4190-9a0e-c23dbc1a0a47)**: April 2022 - April 2025
-*  **[Certified DevSecOps Professional](https://www.credly.com/badges/164b83d7-b687-493c-9490-e9a4c31d08e6/public_url)**: Does not expire
+**BSc Computer Science** &mdash; University of Nairobi, 2017
