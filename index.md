@@ -13,9 +13,21 @@ permalink: /
 <div class="cv-prose">
 <p>Hey! I'm currently an Associate (Manager) in <a href="https://www.boozallen.com/">Booz Allen Hamilton's</a> Commercial Cyber team. Previously, I worked at <a href="https://www2.deloitte.com/uk">Deloitte UK</a> as a Cyber Security Consultant in the Applications and Infrastructure Team on large cyber security transformation projects. I've also interned at both <a href="https://www.bt.com/">BT</a> and <a href="https://research.ibm.com/labs/africa/">IBM Research Africa</a>. You can learn more about all this from my <a href="/about-me/">About Me</a> page.</p>
 
-<p>My interests lie in Blue Teaming, Application Security, Offensive Security and building scalable solutions securely.</p>
+</div>
 
-<p>I really enjoy learning about being the best version of myself and write a few articles on interesting reads &amp; experiences in my <a href="/non-tech-learning/">non-technical learning</a> journal. I also keep a record of learning technical concepts in my <a href="/tech-learning/">technical learning</a> journal.</p>
+<div class="pills-container" style="margin: 1em 0 1.2em;">
+<span class="pill">Blue Teaming</span><span class="pill">Threat Hunting</span><span class="pill">Detection Engineering</span><span class="pill">Adversarial Emulation</span><span class="pill">Application Security</span><span class="pill">Offensive Security</span><span class="pill">Secure Development</span>
+</div>
+
+<div class="writing-cards">
+  <a href="/tech-learning/" class="writing-card">
+    <div class="writing-card-title">Technical Learning</div>
+    <p class="writing-card-desc">Notes and writeups on detection engineering, application security, offensive tooling, and secure coding.</p>
+  </a>
+  <a href="/non-tech-learning/" class="writing-card">
+    <div class="writing-card-title">Non-technical Learning</div>
+    <p class="writing-card-desc">Book summaries and reflections on becoming 1% better every day.</p>
+  </a>
 </div>
 
 
