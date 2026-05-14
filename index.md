@@ -26,7 +26,7 @@ permalink: /
     <div class="highlight-title">From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</div>
     <p class="highlight-desc">Presented at BSides Den Haag 2026 on practical detection engineering, alert noise reduction, and detection-as-code workflows.</p>
   </a>
-  <a href="https://github.com/DataDog/stratus-attack-techniques" class="highlight-card">
+  <a href="https://stratus-red-team.cloud/attack-techniques/mitre-attack-coverage-matrices/" class="highlight-card">
     <div class="highlight-type">Open Source</div>
     <div class="highlight-title">DataDog Stratus Red Team</div>
     <p class="highlight-desc">Developed a MITRE ATT&CK coverage matrix for Stratus Red Team, featured in DataDog's March 2025 Security Digest.</p>

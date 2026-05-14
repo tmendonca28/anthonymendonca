@@ -12,6 +12,13 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
 
 <div class="experience-entries">
 
+ <div class="year-label">2026</div>
+
+ <div class="exp-entry">
+  <h3><a href="/tech-learning/impossible-travel-detection/">Detecting Impossible Travel with the Haversine Formula</a></h3>
+  <p>Building a detection rule in Microsoft Sentinel using KQL and the Haversine formula to catch compromised accounts via geographic impossibility.</p>
+ </div>
+
  <div class="year-label">2024</div>
 
  <div class="exp-entry">

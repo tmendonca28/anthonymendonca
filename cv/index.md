@@ -195,7 +195,7 @@ permalink: /about-me/
 
  <div class="project-entry">
   <div class="project-header">
-   <h3><a href="https://github.com/DataDog/stratus-attack-techniques">DataDog - Stratus Red Team</a></h3>
+   <h3><a href="https://stratus-red-team.cloud/attack-techniques/mitre-attack-coverage-matrices/">DataDog - Stratus Red Team</a></h3>
    <div class="pills-container">
     <span class="pill">Golang</span><span class="pill">Dockerfile</span>
    </div>
