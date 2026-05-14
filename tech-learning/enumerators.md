@@ -6,8 +6,8 @@ description: "Understanding enumerators in Programming."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">November 2023 &middot; {% include reading-time.html %}</p>
-<div style="text-align: center;">
-    <img src="/images/enum-list.jpg" alt="Enumerator List" style="max-width: 50%; height: auto;" title="Enumeration">
+<div class="article-img">
+<img src="/images/enum-list.jpg" alt="Enumerator List" title="Enumeration">
 </div>
 
 ## Intro

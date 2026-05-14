@@ -24,7 +24,7 @@ SASE is also defined by 4 attributes; it should be:
 
 One of the main problems faced by organisations is **restricted traffic visibility** and **traffic inspection blind spots**. SASE is built to cater to this by providing full visibility for all traffic from all edges including between edges (WAN) and from these edges to the Internet.
 
-## What does sase provide to an organisation?
+## What Does SASE Provide to an Organisation?
 * **Agility:** Provisioning of new resources and capabilities is fast and simple.
 * **Collaboration:** IT teams can leverage the convergence of network and security to manage everything from a single interface i.e. single pane of glass. This cross-team collaboration improves the overall service delivery to the business.
 * **Efficiency:** IT can better achieve service to the business, while focusing precious resources and skills on solving business-specific tasks rather than generic infrastructure maintenance.

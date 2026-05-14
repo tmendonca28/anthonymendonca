@@ -10,7 +10,7 @@ description: "Starting my journey in DevSecOps"
 
 In September 2022, I decided to enroll in the [Certified DevSecOps Professional](https://www.practical-devsecops.com/certified-devsecops-professional/) course to learn a bit more about DevSecOps as well as gain real-world technical skills to incorporate security into a CI/CD pipeline. I supplemented this learning with tonnes of freely available internet resources and decided to document my learning to keep myself accountable.
 
-## devsecops terms
+## DevSecOps Terms
 Before we jump in, here are a few terms that will constantly recur when learning about DevSecOps.
 
 | Term | Definition |
@@ -21,7 +21,7 @@ Before we jump in, here are a few terms that will constantly recur when learning
 | **IAST** | Interactive Application Security Testing: A testing method that scans specific code workflows. Examples of tools are Seeker IAST and Acunetix. |
 | **IAC** | Infrastructure as Code: A method to create and configure(or destroy) infrastructure using code definition. Examples of tools are AWS CloudFormation, Ansible, Chef, Puppet and Terraform|
 
-## what is devsecops?
+## What is DevSecOps?
 As defined by Gartner, DevSecOps is the integration of security into emerging agile IT and DevOps development as seamlessly and as transparently as possible. Ideally, this is done without reducing the agility of speed of developers or requiring them to leave their development toolchain environment.   
 This concept is sometimes referred to as *shifting security left*, which simply implies introducing security at the early stages of the SDLC i.e. during design and implementation phases.  
 A myriad of tools can be utilised within DevSecOps as seen below:

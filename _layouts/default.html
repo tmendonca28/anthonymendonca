@@ -43,7 +43,12 @@ body { background: #0a192f; color: #ccd6f6; font-family: 'Inter', -apple-system,
 #content { margin: 2em auto; width: 92.5%; max-width: 700px; }
 h1, h2, p, ul, details { margin: 1em 0; }
 p.gap { margin-top: 1.8em; }
-p.subtitle { margin-top: 0; font-style: italic; }
+p.subtitle { margin-top: 0.2em; font-style: normal; font-size: 84%; color: #8892b0; padding-bottom: 1em; border-bottom: 1px solid #1d3557; margin-bottom: 1.8em; }
+.article-img { text-align: center; margin: 1.5em 0; }
+.article-img img { max-width: 100%; border-radius: 4px; }
+.back-link { font-size: 84%; margin-bottom: 1.2em; }
+.back-link a { color: #8892b0; border-bottom: none; }
+.back-link a:hover { color: #64ffda; }
 a { text-decoration: none; border-bottom: 1px dotted; }
 a:hover { border-bottom: 1px solid; }
 a:link { color: #64ffda; }
@@ -231,6 +236,8 @@ blockquote { border-left-color: #301800; }
 .exp-entry { border-top-color: #e0e0e0; }
 .project-entry { border-top-color: #e0e0e0; }
 .year-label { border-bottom-color: #e0e0e0; color: #555; }
+p.subtitle { color: #555; border-bottom-color: #e0e0e0; }
+.back-link a { color: #555; }
 .writing-card { border-color: #d0d0d0; }
 .writing-card:hover { border-color: #000080; background: rgba(0, 0, 128, 0.04); border-bottom-color: #000080; }
 .writing-card-title { color: #000080; }
@@ -279,6 +286,10 @@ blockquote { border-left-color: #301800; }
 </div>
 
 <div id="content">
+{% assign path = page.url %}
+{% if path contains '/tech-learning/' and path != '/tech-learning/' %}<p class="back-link no-print"><a href="/tech-learning/">← Tech Learning</a></p>
+{% elsif path contains '/non-tech-learning/' and path != '/non-tech-learning/' %}<p class="back-link no-print"><a href="/non-tech-learning/">← Non-Tech Learning</a></p>
+{% endif %}
 {{ content }}
 </div>
 
