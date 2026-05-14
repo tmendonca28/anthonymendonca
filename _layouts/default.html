@@ -49,6 +49,10 @@ p.subtitle { margin-top: 0.2em; font-style: normal; font-size: 84%; color: #8892
 .back-link { font-size: 84%; margin-bottom: 1.2em; }
 .back-link a { color: #8892b0; border-bottom: none; }
 .back-link a:hover { color: #64ffda; }
+.article-prose p { color: #a8b2d8; font-size: 93%; }
+.article-prose p.subtitle { color: #8892b0; font-size: 84%; }
+.article-prose li { color: #a8b2d8; font-size: 93%; }
+.article-prose blockquote { border-left: 3px solid #1d3557; padding-left: 1.2em; margin: 1.5em 0; color: #8892b0; font-style: italic; }
 a { text-decoration: none; border-bottom: 1px dotted; }
 a:hover { border-bottom: 1px solid; }
 a:link { color: #64ffda; }
@@ -238,6 +242,10 @@ blockquote { border-left-color: #301800; }
 .year-label { border-bottom-color: #e0e0e0; color: #555; }
 p.subtitle { color: #555; border-bottom-color: #e0e0e0; }
 .back-link a { color: #555; }
+.article-prose p { color: #333; }
+.article-prose p.subtitle { color: #555; }
+.article-prose li { color: #333; }
+.article-prose blockquote { border-left-color: #d0d0d0; color: #555; }
 .writing-card { border-color: #d0d0d0; }
 .writing-card:hover { border-color: #000080; background: rgba(0, 0, 128, 0.04); border-bottom-color: #000080; }
 .writing-card-title { color: #000080; }
@@ -287,10 +295,15 @@ p.subtitle { color: #555; border-bottom-color: #e0e0e0; }
 
 <div id="content">
 {% assign path = page.url %}
-{% if path contains '/tech-learning/' and path != '/tech-learning/' %}<p class="back-link no-print"><a href="/tech-learning/">← Tech Learning</a></p>
-{% elsif path contains '/non-tech-learning/' and path != '/non-tech-learning/' %}<p class="back-link no-print"><a href="/non-tech-learning/">← Non-Tech Learning</a></p>
-{% endif %}
+{% if path contains '/tech-learning/' and path != '/tech-learning/' %}
+<p class="back-link no-print"><a href="/tech-learning/">← Tech Learning</a></p>
+<div class="article-prose">{{ content }}</div>
+{% elsif path contains '/non-tech-learning/' and path != '/non-tech-learning/' %}
+<p class="back-link no-print"><a href="/non-tech-learning/">← Non-Tech Learning</a></p>
+<div class="article-prose">{{ content }}</div>
+{% else %}
 {{ content }}
+{% endif %}
 </div>
 
 <footer id="footer" class="no-print">
