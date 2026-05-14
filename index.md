@@ -18,6 +18,26 @@ permalink: /
 <span class="pill">Blue Teaming</span><span class="pill">Threat Hunting</span><span class="pill">Detection Engineering</span><span class="pill">Adversarial Emulation</span><span class="pill">Application Security</span><span class="pill">Offensive Security</span><span class="pill">Secure Development</span>
 </div>
 
+<div class="year-label">Selected Work</div>
+
+<div class="highlights-grid">
+  <a href="/about-me/#speaking" class="highlight-card">
+    <div class="highlight-type">Conference Talk</div>
+    <div class="highlight-title">From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</div>
+    <p class="highlight-desc">Presented at BSides Den Haag 2026 on practical detection engineering, alert noise reduction, and detection-as-code workflows.</p>
+  </a>
+  <a href="https://github.com/DataDog/stratus-attack-techniques" class="highlight-card">
+    <div class="highlight-type">Open Source</div>
+    <div class="highlight-title">DataDog Stratus Red Team</div>
+    <p class="highlight-desc">Developed a MITRE ATT&CK coverage matrix for Stratus Red Team, featured in DataDog's March 2025 Security Digest.</p>
+  </a>
+  <a href="/tech-learning/hunting-malicious-infrastructure/" class="highlight-card">
+    <div class="highlight-type">Technical Writing</div>
+    <div class="highlight-title">Hunting Malicious Infrastructure</div>
+    <p class="highlight-desc">A practical guide to identifying and tracking C2 servers using passive DNS, Shodan, certificate pivoting, and detection rules.</p>
+  </a>
+</div>
+
 <div class="year-label">Writing</div>
 
 <div class="writing-cards">
