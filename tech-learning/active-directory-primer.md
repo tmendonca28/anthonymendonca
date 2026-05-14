@@ -87,23 +87,9 @@ By default, when your client sends an authentication request it includes a times
 
 #### The Six-Step Flow
 
-```
-1. AS-REQ  - Client sends "I am Alice" + timestamp encrypted with Alice's password hash
-
-2. AS-REP  - KDC verifies, returns:
-             - TGT encrypted with the krbtgt account hash (Alice cannot read this)
-             - Session Key encrypted with Alice's hash
-
-3. TGS-REQ - Client presents TGT to KDC + "I want access to the file server"
-
-4. TGS-REP - KDC decrypts TGT with krbtgt hash, validates, returns:
-             - Service Ticket encrypted with the service account's hash
-
-5. AP-REQ  - Client presents Service Ticket to the target service
-
-6.          - Service decrypts the ticket with its own hash. No DC contact needed.
-             - Access granted.
-```
+<div class="article-img">
+  <img src="/images/kerberos-flow.png" alt="Kerberos six-step authentication flow between Client (Alice), KDC (on DC), and Service">
+</div>
 
 #### Three Things to Lock In
 
@@ -129,14 +115,9 @@ A **Service Principal Name (SPN)** is the identifier an account registers when r
 
 NTLM is the older challenge-response protocol. It is used when Kerberos is unavailable - for example when accessing resources by IP address instead of hostname, off-domain systems, or legacy applications.
 
-```
-1. Client sends:  "I want to authenticate"
-2. Server sends:  Challenge (random nonce)
-3. Client sends:  Response = NTLM hash applied to the nonce
-4. Server:        Forwards response to DC for verification
-                  (or checks locally for local accounts)
-5.                Access granted
-```
+<div class="article-img">
+  <img src="/images/ntlm-flow.png" alt="NTLM challenge-response authentication flow between Client and Server">
+</div>
 
 NTLM hashes can be captured over the network (e.g. with Responder), dumped from memory (lsass), or extracted from the SAM/NTDS.dit database, and **used directly to authenticate without cracking**. This is **Pass-the-Hash**. In NTLM, the hash *is* the credential. Cracking it to plaintext is optional.
 
