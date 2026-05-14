@@ -19,6 +19,18 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
   <p>Building a detection rule in Microsoft Sentinel using KQL and the Haversine formula to catch compromised accounts via geographic impossibility.</p>
  </div>
 
+ <div class="year-label">2025</div>
+
+ <div class="exp-entry">
+  <h3><a href="/tech-learning/active-directory-attack-paths/">Active Directory: Attack Paths and Privilege Escalation</a></h3>
+  <p>The offensive side of Active Directory: trust relationships, privileged groups, GPO abuse, ACL misconfigurations, and the named attack techniques that chain them together.</p>
+ </div>
+
+ <div class="exp-entry">
+  <h3><a href="/tech-learning/active-directory-primer/">Active Directory: A Security Primer</a></h3>
+  <p>A foundational primer on AD architecture, Kerberos authentication, and NTLM - the building blocks behind every major Windows attack technique.</p>
+ </div>
+
  <div class="year-label">2024</div>
 
  <div class="exp-entry">
