@@ -160,13 +160,13 @@ permalink: /about-me/
  <div class="exp-entry">
   <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate, Cyber</h3>
   <div class="exp-meta">Dec 2025 &ndash; present &middot; London, UK</div>
-  <p>Leading detection engineering and security transformation programs for global enterprise clients.</p>
+  <p>Built a modular adversary simulation framework in C# and Python (Mythic Apollo) with custom EDR evasion logic; leading detection engineering for global enterprise clients.</p>
  </div>
 
  <div class="exp-entry">
   <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Senior Consultant, Cyber</h3>
   <div class="exp-meta">Jan 2023 &ndash; Dec 2025 &middot; London, UK</div>
-  <p>Built a modular adversary simulation framework in C# and Python (Mythic Apollo) with custom EDR evasion logic; developed 30+ KQL detection rules in Microsoft Sentinel; authored 5 IR playbooks and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across logistics, retail, and financial services sectors.</p>
+  <p>Developed 30+ KQL detection rules in Microsoft Sentinel; authored 5 IR playbooks and 13 MITRE ATT&CK-aligned SOC use cases; led cyber maturity assessments and fusion centre design across logistics, retail, and financial services sectors; led security transformation programs for global enterprise clients.</p>
  </div>
 
  <div class="exp-entry">
