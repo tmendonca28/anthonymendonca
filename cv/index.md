@@ -182,7 +182,7 @@ permalink: /about-me/
 
 <div class="experience-entries">
  <div class="exp-entry">
-  <h3>BSides Den Haag 2026</h3>
+  <h3><a href="https://sessionize.com/anthony-mendonca/">BSides Den Haag 2026</a></h3>
   <div class="exp-meta">2026 &middot; Den Haag, Netherlands</div>
   <p><em>From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</em> - Presented at the inaugural BSides Den Haag on practical detection engineering, reducing alert noise, and detection-as-code workflows.</p>
  </div>
