@@ -22,6 +22,11 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
  <div class="year-label">2025</div>
 
  <div class="exp-entry">
+  <h3><a href="/tech-learning/detection-validation-pipeline/">Detection Validation as Code: Building a Closed-Loop Testing Pipeline</a></h3>
+  <p>Building a CI/CD pipeline that automatically executes adversary techniques, queries your SIEM, and validates that detection rules actually fire - before and after every change.</p>
+ </div>
+
+ <div class="exp-entry">
   <h3><a href="/tech-learning/active-directory-attack-paths/">Active Directory: Attack Paths and Privilege Escalation</a></h3>
   <p>The offensive side of Active Directory: trust relationships, privileged groups, GPO abuse, ACL misconfigurations, and the named attack techniques that chain them together.</p>
  </div>
