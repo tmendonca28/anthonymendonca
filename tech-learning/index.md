@@ -22,6 +22,11 @@ You can learn about my coding projects on my [GitHub](https://github.com/tmendon
  <div class="year-label">2025</div>
 
  <div class="exp-entry">
+  <h3><a href="/tech-learning/sigma-cli-detection-standardisation/">Standardising Detections with Sigma and sigma-cli</a></h3>
+  <p>Converting SIEM-specific detection rules into portable Sigma format and using sigma-cli to generate KQL, SPL, and other query languages from a single source of truth.</p>
+ </div>
+
+ <div class="exp-entry">
   <h3><a href="/tech-learning/detection-validation-pipeline/">Detection Validation as Code: Building a Closed-Loop Testing Pipeline</a></h3>
   <p>Building a CI/CD pipeline that automatically executes adversary techniques, queries your SIEM, and validates that detection rules actually fire - before and after every change.</p>
  </div>
