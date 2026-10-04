@@ -161,7 +161,7 @@ description: "Anthony Mendonca's CV: detection engineering and adversary emulati
  <div class="exp-entry">
   <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate, Cyber (Manager level)</h3>
   <div class="exp-meta">Jan 2026 &ndash; present &middot; London, UK &middot; Promoted from Senior Consultant</div>
-  <p>Built a modular adversary simulation framework in C# and Python (Mythic Apollo) with custom EDR evasion logic; leading detection engineering for global enterprise clients.</p>
+  <p>Lead developer of a modular adversary emulation framework in C# and Python (Mythic Apollo) spanning 8 MITRE ATT&CK tactics, with custom evasion tradecraft (AppDomainManager injection, AMSI and ETW bypasses, low-level API evasion techniques) that evaded two leading enterprise EDR platforms. Used in a client cyber testing exercise, it exposed detection gaps in timestomping, in-memory execution and stealthy payload execution; guided the client's detection engineering team on closing them and handed over documentation. Leading detection engineering for global enterprise clients.</p>
  </div>
 
  <div class="exp-entry">
