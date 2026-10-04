@@ -2,7 +2,7 @@
 layout: default
 title: "Technical Information Gathering using theHarvester"
 permalink: /tech-learning/tech-info-gathering-theharvester/
-description: "Getting up and running with theHarvester for OSINT."
+description: "Using theHarvester for OSINT reconnaissance: enumerating subdomains, IP addresses and email addresses for a target during the recon phase of a red team engagement."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">August 2022 &middot; {% include reading-time.html %}</p>

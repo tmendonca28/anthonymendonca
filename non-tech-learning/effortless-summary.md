@@ -2,7 +2,7 @@
 layout: default
 title: "Effortless"
 permalink: /non-tech-learning/effortless-summary/
-description: "Effortless"
+description: "Key takeaways from Greg McKeown's Effortless: how the effortless state, effortless action and effortless results make important work easier to get done."
 ---
 
 <h1>{{ page.title }}</h1>

@@ -2,7 +2,7 @@
 layout: default
 title: "Understanding Enumerators in Programming"
 permalink: /tech-learning/enumerators/
-description: "Understanding enumerators in Programming."
+description: "What enums are, why they make code safer and more readable, and a worked example - revisiting a question that stumped me in an early big-tech interview."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">November 2023 &middot; {% include reading-time.html %}</p>

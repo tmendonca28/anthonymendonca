@@ -2,7 +2,7 @@
 layout: default
 title: "Hunting Malicious Infrastructure: A Practical Guide to Identifying and Tracking C2 Servers"
 permalink: /tech-learning/hunting-malicious-infrastructure/
-description: "Hunting Malicious Infrastructure: C2 Servers"
+description: "How to find and track C2 servers: pivoting from a single IOC with passive DNS, Shodan and TLS certificate analysis, then turning findings into detection rules."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">September 2024 &middot; {% include reading-time.html %}</p>

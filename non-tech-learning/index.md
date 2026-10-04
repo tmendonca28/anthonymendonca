@@ -2,6 +2,7 @@
 layout: default
 title: Non-technical Learning
 permalink: /non-tech-learning/
+description: "Book summaries and reflections by Anthony Mendonca on performance, productivity, time management and the human side of cybersecurity."
 ---
 
 # {{ page.title }}

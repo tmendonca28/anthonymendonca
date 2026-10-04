@@ -2,7 +2,7 @@
 layout: default
 title: "What is sase?"
 permalink: /tech-learning/sase-101/
-description: "Understanding the fundamentals of SASE"
+description: "An introduction to Secure Access Service Edge (SASE): why networking and security are converging, and what SASE gives an organisation."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">August 2022 &middot; {% include reading-time.html %}</p>

@@ -2,7 +2,7 @@
 layout: default
 title: "Beyond Binary"
 permalink: /non-tech-learning/beyond-binary/
-description: "Beyond Binary"
+description: "Why people matter as much as systems in cybersecurity: how collaboration, positivity and accepting the human factor drive successful security transformation."
 ---
 
 <h1>{{ page.title }}</h1>

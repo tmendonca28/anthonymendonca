@@ -2,7 +2,7 @@
 layout: default
 title: "Can your ISP see what URL you browse to?"
 permalink: /tech-learning/isp-info-gathering/
-description: "How your ISP may know what site you are browsing to"
+description: "How your ISP can see which sites you visit even over HTTPS - through plaintext HTTP, DNS queries and the TLS Server Name Indication (SNI) field."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">August 2022 &middot; {% include reading-time.html %}</p>

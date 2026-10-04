@@ -2,7 +2,7 @@
 layout: default
 title: "Peak Performance"
 permalink: /non-tech-learning/peak-performance/
-description: "Peak Performance"
+description: "What Peak Performance by Brad Stulberg and Steve Magness taught me about growth: productive stress plus deep rest, and how I apply it to my own work."
 ---
 
 <h1>{{ page.title }}</h1>

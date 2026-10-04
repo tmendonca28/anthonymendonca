@@ -1,3 +1,22 @@
 title: Anthony Mendonca
-description: "Anthony Mendonca's personal site"
+description: "Anthony Mendonca is a London-based detection engineer and security builder writing about detection engineering, adversary emulation and application security."
 url: "https://anthonymendonca.me"
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "google1e1473de133e926b.html"
+    values:
+      sitemap: false
+
+# Overriding exclude replaces Jekyll's defaults, so they are restated here
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .bundle/
+  - .jekyll-cache/

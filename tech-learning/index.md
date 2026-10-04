@@ -2,6 +2,7 @@
 layout: default
 title: Technical Learning
 permalink: /tech-learning/
+description: "Technical writing by Anthony Mendonca on detection engineering, Sigma, KQL, Active Directory attacks, threat hunting, application security and offensive tooling."
 ---
 
 # {{ page.title }}

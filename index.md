@@ -2,6 +2,7 @@
 layout: default
 title: Anthony Mendonca
 permalink: /
+description: "London-based detection engineer and security builder at Booz Allen Hamilton, specialising in detection engineering, adversary emulation and AppSec. GPEN, GSOC, GWEB."
 ---
 
 <img class="right" src="/images/profile-pic.jpg" alt="Anthony in Nairobi" title="Anthony in sunny Nairobi" />

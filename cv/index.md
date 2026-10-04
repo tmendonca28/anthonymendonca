@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 permalink: /about-me/
+description: "Anthony Mendonca's CV: detection engineering and adversary emulation at Booz Allen Hamilton, BSides Den Haag speaker, Stratus Red Team contributor. GPEN, GSOC, GWEB."
 ---
 <h1 id="agm-resumecv" class="no-print">{{ page.title }}</h1>
 

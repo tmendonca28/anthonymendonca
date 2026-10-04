@@ -2,7 +2,7 @@
 layout: default
 title: "A foray into DevSecOps"
 permalink: /tech-learning/devsecops-101/
-description: "Starting my journey in DevSecOps"
+description: "Core DevSecOps concepts and terminology from the Certified DevSecOps Professional course: shifting security left and building security into CI/CD pipelines."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">September 2022 &middot; {% include reading-time.html %}</p>

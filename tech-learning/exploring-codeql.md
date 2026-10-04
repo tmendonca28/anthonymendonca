@@ -2,7 +2,7 @@
 layout: default
 title: "Exploring CodeQL: A Practical Guide"
 permalink: /tech-learning/exploring-codeql/
-description: "Exploring CodeQL: A Practical Guide"
+description: "A hands-on introduction to CodeQL for SAST: installing the CLI, building a Python database and writing your first query to find vulnerabilities in code."
 ---
 <h1>{{ page.title }}</h1>
 <p class="subtitle">December 2023 &middot; {% include reading-time.html %}</p>

@@ -2,7 +2,7 @@
 layout: default
 title: "Eat That Frog"
 permalink: /non-tech-learning/eat-that-frog/
-description: "Eat That Frog"
+description: "Lessons from Brian Tracy's Eat That Frog on time management - clarity, the 80/20 rule and the ABCDE method - and the resolutions I took from each."
 ---
 
 <h1>{{ page.title }}</h1>

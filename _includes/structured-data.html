@@ -1,0 +1,45 @@
+{% if page.url == '/' or page.url == '/about-me/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anthony Mendonca",
+  "url": "{{ site.url }}/",
+  "image": "{{ site.url }}/images/profile-pic.jpg",
+  "description": {{ site.description | jsonify }},
+  "jobTitle": "Associate, Cyber",
+  "worksFor": { "@type": "Organization", "name": "Booz Allen Hamilton", "url": "https://www.boozallen.com/" },
+  "address": { "@type": "PostalAddress", "addressLocality": "London", "addressCountry": "GB" },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Queen's University Belfast" },
+    { "@type": "CollegeOrUniversity", "name": "University of Nairobi" }
+  ],
+  "knowsAbout": ["Detection Engineering", "Adversary Emulation", "Application Security", "Threat Hunting", "Microsoft Sentinel", "KQL", "Sigma", "MITRE ATT&CK", "Active Directory Security", "Penetration Testing", "DevSecOps"],
+  "hasCredential": [
+    { "@type": "EducationalOccupationalCredential", "name": "GIAC Penetration Tester (GPEN)" },
+    { "@type": "EducationalOccupationalCredential", "name": "GIAC Security Operations Certified (GSOC)" },
+    { "@type": "EducationalOccupationalCredential", "name": "GIAC Certified Web Application Defender (GWEB)" },
+    { "@type": "EducationalOccupationalCredential", "name": "CompTIA Security+" }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/anthony-mendonca/",
+    "https://github.com/tmendonca28",
+    "https://sessionize.com/anthony-mendonca/"
+  ]
+}
+</script>
+{% elsif is_article %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ seo_description | jsonify }},
+  "url": "{{ seo_url }}",
+  "mainEntityOfPage": "{{ seo_url }}",
+  "image": "{{ seo_image }}",
+  "inLanguage": "en-GB",
+  "author": { "@type": "Person", "name": "Anthony Mendonca", "url": "{{ site.url }}/about-me/" }
+}
+</script>
+{% endif %}

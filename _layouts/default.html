@@ -2,28 +2,31 @@
 <html lang="en">
 
 <head>
- <title>{{ page.title }}</title>
+{% assign seo_description = page.description | default: site.description %}
+{% assign seo_url = site.url | append: page.url %}
+{% assign seo_image = page.image | default: '/images/profile-pic.jpg' | prepend: site.url %}
+{% assign is_article = false %}
+{% if page.url contains '/tech-learning/' or page.url contains '/non-tech-learning/' %}{% unless page.url == '/tech-learning/' or page.url == '/non-tech-learning/' %}{% assign is_article = true %}{% endunless %}{% endif %}
+ <title>{% if page.url == '/' %}Anthony Mendonca | Detection Engineer &amp; Security Builder{% else %}{{ page.title | escape }} | Anthony Mendonca{% endif %}</title>
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-{% if page.description %}
- <meta name="description" content="{{ page.description | escape }}">
-{% else %}
- <meta name="description" content="Anthony Mendonca is a security engineer and life-long learner.">
- <meta name="keywords" content="Anthony Mendonca, Deloitte, Cybersecurity">
-{% endif %}
+ <meta name="description" content="{{ seo_description | escape }}">
  <meta name="author" content="Anthony Mendonca">
+ <link rel="canonical" href="{{ seo_url }}">
  <!-- Open Graph -->
  <meta property="og:site_name" content="Anthony Mendonca">
+ <meta property="og:locale" content="en_GB">
  <meta property="og:title" content="{{ page.title | escape }}">
- <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}Anthony Mendonca is a security engineer and life-long learner.{% endif %}">
- <meta property="og:type" content="{% if page.description %}article{% else %}website{% endif %}">
- <meta property="og:url" content="{{ site.url }}{{ page.url }}">
- <meta property="og:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/profile-pic.jpg{% endif %}">
+ <meta property="og:description" content="{{ seo_description | escape }}">
+ <meta property="og:type" content="{% if is_article %}article{% else %}website{% endif %}">
+ <meta property="og:url" content="{{ seo_url }}">
+ <meta property="og:image" content="{{ seo_image }}">
  <!-- Twitter Card -->
  <meta name="twitter:card" content="summary">
  <meta name="twitter:title" content="{{ page.title | escape }}">
- <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}Anthony Mendonca is a security engineer and life-long learner.{% endif %}">
- <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/profile-pic.jpg{% endif %}">
+ <meta name="twitter:description" content="{{ seo_description | escape }}">
+ <meta name="twitter:image" content="{{ seo_image }}">
+{% include structured-data.html %}
  <link rel="preconnect" href="https://fonts.googleapis.com">
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">

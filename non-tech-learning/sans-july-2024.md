@@ -2,7 +2,7 @@
 layout: default
 title: "My Experience at SANS London July 2024"
 permalink: /non-tech-learning/sans-july-2024/
-description: "My Experience at SANS London July 2024 & SEC450"
+description: "My first in-person SANS event: taking SEC450 Blue Team Fundamentals through the SANS Work Study Programme in London, with day-by-day highlights and takeaways."
 ---
 
 <h1>{{ page.title }}</h1>
