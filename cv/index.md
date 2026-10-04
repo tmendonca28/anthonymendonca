@@ -159,8 +159,8 @@ description: "Anthony Mendonca's CV: detection engineering and adversary emulati
 <div class="experience-entries">
 
  <div class="exp-entry">
-  <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate, Cyber</h3>
-  <div class="exp-meta">Dec 2025 &ndash; present &middot; London, UK</div>
+  <h3><a href="https://www.boozallen.com/">Booz Allen Hamilton</a> &ndash; Associate, Cyber (Manager level)</h3>
+  <div class="exp-meta">Jan 2026 &ndash; present &middot; London, UK &middot; Promoted from Senior Consultant</div>
   <p>Built a modular adversary simulation framework in C# and Python (Mythic Apollo) with custom EDR evasion logic; leading detection engineering for global enterprise clients.</p>
  </div>
 
@@ -185,7 +185,8 @@ description: "Anthony Mendonca's CV: detection engineering and adversary emulati
  <div class="exp-entry">
   <h3><a href="https://sessionize.com/anthony-mendonca/">BSides Den Haag 2026</a></h3>
   <div class="exp-meta">2026 &middot; Den Haag, Netherlands</div>
-  <p><em>From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</em> - Presented at the inaugural BSides Den Haag on practical detection engineering, reducing alert noise, and detection-as-code workflows.</p>
+  <p><em><a href="https://github.com/tmendonca28/conference-talks/blob/main/2026-bsides-den-haag/From-Noisy-Alerts-to-Signal.pdf">From Noisy Alerts to Signal: How Real Detection Engineering Teams Actually Work</a></em> - Presented at the inaugural BSides Den Haag on practical detection engineering, reducing alert noise, and detection-as-code workflows.</p>
+  <p class="no-print"><a href="https://github.com/tmendonca28/conference-talks/blob/main/2026-bsides-den-haag/From-Noisy-Alerts-to-Signal.pdf">Slides (PDF) ↗</a> &middot; <a href="https://sessionize.com/anthony-mendonca/">Speaker profile ↗</a></p>
  </div>
 </div>
 
