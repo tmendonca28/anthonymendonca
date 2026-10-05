@@ -14,7 +14,7 @@ description: "Anthony Mendonca's CV: detection engineering and adversary emulati
  <a href="#speaking">Speaking</a>
  <a href="#projects">Projects</a>
  <a href="#education">Education</a>
- <a href="/cv/AnthonyMendonca_Resume_December2025_Website.pdf" title="PDF version of my resume / CV">PDF ↓</a>
+ <a href="https://www.linkedin.com/in/anthony-mendonca/" title="Get in touch on LinkedIn">Contact ↗</a>
 </nav>
 
 
