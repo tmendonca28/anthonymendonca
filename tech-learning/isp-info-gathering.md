@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Can your ISP see what URL you browse to?"
+title: "How Your ISP May Know What Site You Are Browsing To"
 permalink: /tech-learning/isp-info-gathering/
 description: "How your ISP can see which sites you visit even over HTTPS - through plaintext HTTP, DNS queries and the TLS Server Name Indication (SNI) field."
 ---

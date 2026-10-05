@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Secure coding practices in Java"
+title: "Secure Coding Practices in Java"
 permalink: /tech-learning/sec-coding-java/
 description: "Defensive coding in Java: validating nulls, ranges, strings and dates, choosing the right exceptions, using Guava and Apache Commons, and not returning null."
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "What is sase?"
+title: "Understanding Secure Access Service Edge (SASE)"
 permalink: /tech-learning/sase-101/
 description: "An introduction to Secure Access Service Edge (SASE): why networking and security are converging, and what SASE gives an organisation."
 ---

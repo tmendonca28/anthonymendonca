@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Technical Information Gathering using theHarvester"
+title: "Technical Information Gathering with theHarvester"
 permalink: /tech-learning/tech-info-gathering-theharvester/
 description: "Using theHarvester for OSINT reconnaissance: enumerating subdomains, IP addresses and email addresses for a target during the recon phase of a red team engagement."
 ---

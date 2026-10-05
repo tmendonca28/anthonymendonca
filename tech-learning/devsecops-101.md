@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "A foray into DevSecOps"
+title: "A Foray into DevSecOps"
 permalink: /tech-learning/devsecops-101/
 description: "Core DevSecOps concepts and terminology from the Certified DevSecOps Professional course: shifting security left and building security into CI/CD pipelines."
 ---
