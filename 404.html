@@ -1,0 +1,156 @@
+---
+layout: default
+title: Page Not Found
+permalink: /404.html
+description: "This page doesn't exist. Head back to Anthony Mendonca's detection engineering and security writing."
+sitemap: false
+---
+
+<style type="text/css">
+.nf-wrap { --nf-body: #112240; --nf-panel: #1d3557; --nf-line: #ccd6f6; --nf-accent: #64ffda; --nf-muted: #8892b0; --nf-text: #a8b2d8; --nf-screen: #0a192f; --nf-tear: #89ddff;
+  display: grid; grid-template-columns: 1fr 1fr; gap: 2em; align-items: center; margin: 1em 0 2em; }
+.nf-title { color: var(--nf-accent); }
+.nf-text p { color: var(--nf-text); font-size: 93%; }
+.nf-path { background: var(--nf-body); color: var(--nf-line); padding: 0.1em 0.35em; border-radius: 3px; word-break: break-all; }
+ul.nf-links { list-style-type: none; margin-top: 1.4em; }
+ul.nf-links li { margin-left: 0; }
+ul.nf-links li::before { content: '\2192\00a0'; color: var(--nf-muted); }
+.nf-art { display: flex; align-items: center; justify-content: center; gap: 0.2em; }
+.nf-art svg { width: 10.5em; height: auto; flex-shrink: 0; overflow: visible; }
+.nf-four { font-size: 6.5em; font-weight: 700; line-height: 1; color: var(--nf-panel); -webkit-text-stroke: 2px var(--nf-accent); animation: nf-float-in 0.8s ease-out 0.1s both; }
+.nf-four + svg + .nf-four { animation-delay: 0.35s; }
+
+/* Robot parts */
+.nf-fill-body { fill: var(--nf-body); stroke: var(--nf-line); stroke-width: 2; }
+.nf-fill-panel { fill: var(--nf-panel); stroke: var(--nf-line); stroke-width: 2; }
+.nf-fill-screen { fill: var(--nf-screen); stroke: var(--nf-line); stroke-width: 2; }
+.nf-shadow { fill: var(--nf-panel); opacity: 0.6; }
+.nf-stroke-line { fill: none; stroke: var(--nf-line); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.nf-stroke-accent { fill: none; stroke: var(--nf-accent); stroke-width: 2.5; stroke-linecap: round; }
+.nf-eye { fill: var(--nf-accent); }
+.nf-label { fill: var(--nf-accent); font-family: monospace; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; }
+.nf-led { fill: var(--nf-accent); animation: nf-flicker 3.2s linear infinite; }
+.nf-head, .nf-torso, .nf-eyes, .nf-tear { transform-box: fill-box; }
+.nf-head { transform-origin: 50% 100%; animation: nf-sigh 5.5s ease-in-out infinite; }
+.nf-torso { transform-origin: 50% 100%; animation: nf-breathe 5.5s ease-in-out infinite; }
+.nf-eyes { transform-origin: 50% 50%; animation: nf-blink 4.2s ease-in-out infinite; }
+.nf-tear { fill: var(--nf-tear); opacity: 0; animation: nf-tear 6s ease-in infinite 1.5s; }
+.nf-spark { opacity: 0; animation: nf-spark 1.7s steps(1) infinite; }
+.nf-spark:nth-child(2) { animation-delay: 0.45s; }
+.nf-spark:nth-child(3) { animation-delay: 1s; }
+
+@keyframes nf-flicker { 0%, 100% { opacity: 0.9; } 8% { opacity: 0.25; } 12% { opacity: 0.8; } 40% { opacity: 0.55; } 44% { opacity: 0.1; } 47% { opacity: 0.6; } 75% { opacity: 0.4; } }
+@keyframes nf-sigh { 0%, 100% { transform: rotate(0) translateY(0); } 45%, 60% { transform: rotate(-3deg) translateY(4px); } }
+@keyframes nf-breathe { 0%, 100% { transform: scale(1, 1); } 45%, 60% { transform: scale(1.01, 0.985); } }
+@keyframes nf-blink { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+@keyframes nf-tear { 0% { opacity: 0; transform: translateY(0) scale(0.4); } 20% { opacity: 1; transform: translateY(0) scale(1); } 45% { opacity: 1; transform: translateY(0) scale(1); } 70% { opacity: 0; transform: translateY(18px) scale(1); } 100% { opacity: 0; transform: translateY(18px); } }
+@keyframes nf-spark { 0% { opacity: 0; } 10% { opacity: 1; } 18% { opacity: 0; } 24% { opacity: 0.7; } 30% { opacity: 0; } }
+@keyframes nf-float-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+
+@media (max-width: 750px) {
+.nf-wrap { grid-template-columns: 1fr; gap: 0.5em; }
+.nf-art { order: -1; font-size: 90%; }
+}
+@media (max-width: 615px) {
+.nf-art { font-size: 85%; }
+}
+@media print {
+.nf-art { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+.nf-wrap, .nf-wrap * { animation: none !important; }
+}
+@media (prefers-color-scheme: light) {
+.nf-wrap { --nf-body: #f0f0f0; --nf-panel: #e0e0e0; --nf-line: #333; --nf-accent: #000080; --nf-muted: #555; --nf-text: #333; --nf-screen: #ffffff; --nf-tear: #0550ae; }
+}
+</style>
+
+<div class="nf-wrap">
+ <div class="nf-text">
+  <h1 class="nf-title">Page Not Found</h1>
+  <p>Even my best detection rules can't find this one, and Tony's taking it hard. <span id="nf-lead">This page</span> may have moved or never existed.</p>
+  <ul class="nf-links">
+   <li><a href="/">Home</a></li>
+   <li><a href="/tech-learning/">Tech Learning</a></li>
+   <li><a href="/non-tech-learning/">Non-Tech Learning</a></li>
+   <li><a href="/about-me/">About Me</a></li>
+   <li><a href="https://www.linkedin.com/in/anthony-mendonca/">Get in touch (LinkedIn)</a></li>
+  </ul>
+ </div>
+
+ <div class="nf-art">
+  <span class="nf-four" aria-hidden="true">4</span>
+  <svg viewBox="0 0 210 240" role="img" aria-labelledby="nf-robot-title" xmlns="http://www.w3.org/2000/svg">
+   <title id="nf-robot-title">Tony the robot, looking sad</title>
+   <ellipse class="nf-shadow" cx="112" cy="231" rx="96" ry="6"/>
+
+   <!-- Detached arm lying on the ground -->
+   <g transform="rotate(8 176 214)">
+    <rect class="nf-fill-body" x="152" y="207" width="42" height="14" rx="7"/>
+    <circle class="nf-fill-panel" cx="197" cy="214" r="7"/>
+   </g>
+
+   <!-- Legs and feet, sitting -->
+   <rect class="nf-fill-panel" x="64" y="192" width="26" height="26" rx="6"/>
+   <rect class="nf-fill-panel" x="110" y="192" width="26" height="26" rx="6"/>
+   <ellipse class="nf-fill-body" cx="74" cy="222" rx="18" ry="8"/>
+   <ellipse class="nf-fill-body" cx="126" cy="222" rx="18" ry="8"/>
+
+   <g class="nf-torso">
+    <!-- Remaining arm, hanging limp -->
+    <g transform="rotate(7 45 130)">
+     <rect class="nf-fill-body" x="36" y="126" width="17" height="58" rx="8.5"/>
+     <circle class="nf-fill-panel" cx="44.5" cy="188" r="7"/>
+    </g>
+    <rect class="nf-fill-body" x="54" y="118" width="92" height="82" rx="14"/>
+    <rect class="nf-fill-panel" x="70" y="138" width="60" height="28" rx="4"/>
+    <text class="nf-label" x="100" y="157" text-anchor="middle">TONY</text>
+    <circle class="nf-fill-panel" cx="85" cy="182" r="3"/>
+    <circle class="nf-fill-panel" cx="100" cy="182" r="3"/>
+    <circle class="nf-fill-panel" cx="115" cy="182" r="3"/>
+    <!-- Empty shoulder socket and sparks -->
+    <circle class="nf-fill-screen" cx="146" cy="134" r="7"/>
+    <g>
+     <line class="nf-stroke-accent nf-spark" x1="154" y1="128" x2="161" y2="121"/>
+     <line class="nf-stroke-accent nf-spark" x1="156" y1="134" x2="164" y2="134"/>
+     <line class="nf-stroke-accent nf-spark" x1="154" y1="140" x2="160" y2="147"/>
+    </g>
+   </g>
+
+   <g class="nf-head">
+    <g transform="rotate(-8 100 120)">
+     <!-- Bent antenna with failing LED -->
+     <path class="nf-stroke-line" d="M100 40 L100 27 L113 19"/>
+     <circle class="nf-led" cx="115" cy="17" r="4.5"/>
+     <rect class="nf-fill-panel" x="92" y="104" width="16" height="16" rx="3"/>
+     <rect class="nf-fill-body" x="52" y="38" width="96" height="70" rx="18"/>
+     <rect class="nf-fill-screen" x="62" y="51" width="76" height="44" rx="10"/>
+     <!-- Sad face: raised inner brows, droopy half-closed eyes, frown -->
+     <line class="nf-stroke-accent" x1="70" y1="65" x2="87" y2="60"/>
+     <line class="nf-stroke-accent" x1="113" y1="60" x2="130" y2="65"/>
+     <g class="nf-eyes">
+      <path class="nf-eye" d="M71 70 a8.5 7 0 0 0 17 0 z"/>
+      <path class="nf-eye" d="M112 70 a8.5 7 0 0 0 17 0 z"/>
+     </g>
+     <path class="nf-stroke-accent" d="M90 89 q10 -7 20 0"/>
+     <path class="nf-tear" d="M82 77 q-3.5 5.5 0 7.5 q3.5 -2 0 -7.5 z"/>
+    </g>
+   </g>
+  </svg>
+  <span class="nf-four" aria-hidden="true">4</span>
+ </div>
+</div>
+
+<script>
+(function () {
+  var lead = document.getElementById('nf-lead');
+  if (!lead) return;
+  var path = window.location.pathname;
+  try { path = decodeURIComponent(path); } catch (e) {}
+  var code = document.createElement('code');
+  code.className = 'nf-path';
+  code.textContent = path;
+  lead.textContent = 'The page at ';
+  lead.appendChild(code);
+}());
+</script>
